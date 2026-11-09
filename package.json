@@ -1,0 +1,14 @@
+{
+  "name": "news-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "每日热点新闻抓取，产出标准 news.json，供个人工作台读取",
+  "scripts": {
+    "fetch": "node scripts/fetch.mjs",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
