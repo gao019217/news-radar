@@ -40,6 +40,7 @@ a.t:hover{color:var(--primary);text-decoration:underline}
 .meta{font-size:11.5px;color:var(--text3);display:flex;gap:10px;flex-wrap:wrap;margin-top:3px;align-items:center}
 .tag{background:var(--bg);color:var(--text2);border-radius:4px;padding:0 5px;font-size:11px}
 .hot{color:var(--orange)}
+.meta .stale{background:var(--orange-soft);color:var(--orange);border-radius:4px;padding:0 5px;font-size:11px}
 .kw{background:#fff7ed;color:#9a3412;border-radius:3px;padding:0 2px}
 mark{background:#fef08a;color:inherit;border-radius:2px;padding:0 1px}
 .empty{text-align:center;color:var(--text3);padding:40px 0;font-size:13px}
@@ -144,6 +145,7 @@ function render() {
         ? `<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${hi(it.title, it.kw)}</a>`
         : `<span class="t">${hi(it.title, it.kw)}</span>`;
       const bits = [];
+      if (it.stale) bits.push(`<span class="stale">缓存</span>`);
       if (it.platform || it.source) bits.push(`<span class="tag">${esc(it.platform || it.source)}</span>`);
       if (it.hot) bits.push(`<span class="hot">${fmtHot(it.hot)}</span>`);
       if (it.time) bits.push(ago(it.time));

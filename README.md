@@ -9,7 +9,7 @@
 每天 08:00（北京时间）
       │
       ├─ 60s API ── 每日要闻 15 条 / 微博·知乎·抖音·头条 热搜
-      ├─ RSS ───── 36氪、IT之家、人民网时政
+      ├─ RSS ───── 36氪、IT之家、人民网时政、人民网财经、华尔街见闻快讯
       └─ Hacker News ── 海外技术热点
       ↓
   data/news.json  ← 页面读这个
@@ -90,7 +90,7 @@ const data = await fetch(url).then(r => r.json());
 ## 数据来源
 
 - [vikiboss/60s](https://github.com/vikiboss/60s) — MIT
-- 各媒体 RSS（36氪、IT之家、人民网）
+- 各媒体 RSS（36氪、IT之家、人民网、华尔街见闻）
 - [Hacker News API](https://github.com/HackerNews/API)
 
 抓取内容版权归原媒体所有，本仓库仅做个人阅读聚合，请勿公开再分发。

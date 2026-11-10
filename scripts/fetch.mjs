@@ -186,6 +186,7 @@ function buildSections({ daily, hot, feeds, hn }, cfg) {
   };
   group('tech', '科技与产业');
   group('policy', '时政要闻');
+  group('finance', '财政与财经');
 
   if (hn.length) {
     sections.push({ id: 'tech-en', name: '海外技术热点', items: hn.slice(0, 8) });
@@ -256,7 +257,7 @@ async function main() {
     .filter(Boolean);
   if (failedHot.length) {
     const oldItems = ((prevSections.find((s) => s.id === 'hot') || {}).items) || [];
-    const reuse = oldItems.filter((it) => failedHot.includes(it.platform));
+    const reuse = oldItems.filter((it) => failedHot.includes(it.platform)).map((it) => ({ ...it, stale: true }));
     if (reuse.length) {
       const hotSec = sections.find((s) => s.id === 'hot');
       if (hotSec) hotSec.items = [...hotSec.items, ...reuse];
