@@ -6,49 +6,67 @@
 <title>每日热点雷达 · NewsRadar</title>
 <style>
 :root{--bg:#f5f7fa;--panel:#fff;--border:#e3e8ef;--text:#1f2937;--text2:#6b7280;--text3:#9ca3af;
---primary:#2563eb;--primary-soft:#eff6ff;--orange:#ea580c;--orange-soft:#fff7ed;--red:#dc2626;--red-soft:#fef2f2;--radius:10px}
+--primary:#2563eb;--primary-soft:#eff6ff;--orange:#ea580c;--orange-soft:#fff7ed;--red:#dc2626;--red-soft:#fef2f2;
+--radius:12px;--shadow:0 1px 3px rgba(0,0,0,.05)}
 *{margin:0;padding:0;box-sizing:border-box}
 body{font-family:"Microsoft YaHei","PingFang SC",system-ui,sans-serif;background:var(--bg);color:var(--text);font-size:14px;line-height:1.6}
-.wrap{max-width:960px;margin:0 auto;padding:20px 20px 60px}
-header{display:flex;align-items:flex-end;gap:14px;flex-wrap:wrap;padding-bottom:16px;border-bottom:1px solid var(--border);margin-bottom:16px}
-h1{font-size:20px;font-weight:600}
-.sub{font-size:12px;color:var(--text2)}
+.wrap{max-width:1400px;margin:0 auto;padding:20px 20px 40px}
+
+header{display:flex;align-items:flex-end;gap:14px;flex-wrap:wrap;padding-bottom:14px;border-bottom:1px solid var(--border)}
+h1{font-size:20px;font-weight:600;letter-spacing:.2px}
+.sub{font-size:12px;color:var(--text2);margin-top:2px}
 .sub b{color:var(--primary);font-weight:600}
 .actions{margin-left:auto;display:flex;gap:8px}
 button{border:none;border-radius:8px;padding:7px 14px;font-size:13px;font-family:inherit;cursor:pointer;background:var(--primary);color:#fff;transition:.15s}
 button:hover{opacity:.88}
 button.ghost{background:#fff;color:var(--text);border:1px solid var(--border)}
-.toolbar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin-bottom:14px}
-.tab{padding:5px 12px;border-radius:20px;font-size:13px;background:#fff;border:1px solid var(--border);cursor:pointer;color:var(--text2)}
-.tab.on{background:var(--primary);border-color:var(--primary);color:#fff}
-.tab .n{font-size:11px;opacity:.65;margin-left:4px}
-input[type=search]{flex:1;min-width:180px;border:1px solid var(--border);border-radius:8px;padding:7px 12px;font-size:13px;font-family:inherit;outline:none;background:#fff;color:var(--text)}
+
+.bar{position:sticky;top:0;z-index:20;background:linear-gradient(var(--bg) 78%,rgba(245,247,250,0));padding:12px 0 14px;display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.jump{display:flex;gap:6px;flex-wrap:wrap;flex:1}
+.jump a{font-size:12.5px;color:var(--text2);text-decoration:none;background:#fff;border:1px solid var(--border);border-radius:20px;padding:4px 11px;display:inline-flex;align-items:center;gap:5px;white-space:nowrap}
+.jump a:hover{border-color:#bfdbfe;color:var(--primary)}
+.jump a i{display:inline-block;width:5px;height:5px;border-radius:50%;background:currentColor;opacity:.55}
+.jump a .n{color:var(--text3);font-size:11px}
+input[type=search]{width:200px;border:1px solid var(--border);border-radius:8px;padding:7px 12px;font-size:13px;font-family:inherit;outline:none;background:#fff;color:var(--text)}
 input[type=search]:focus{border-color:var(--primary)}
 .toggle{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--text2);cursor:pointer;white-space:nowrap}
 .toggle input{accent-color:var(--primary);width:15px;height:15px;cursor:pointer}
-.card{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);padding:6px 18px 12px;margin-bottom:16px}
-.card h2{font-size:15px;font-weight:600;padding:12px 0 8px;display:flex;align-items:center;gap:8px}
-.card h2 .cnt{font-size:11px;font-weight:400;color:var(--text3);background:var(--bg);border-radius:10px;padding:1px 8px}
-.card h2 .stale{font-size:11px;font-weight:400;color:var(--orange);background:var(--orange-soft);border-radius:10px;padding:1px 8px}
-.row{display:flex;gap:10px;padding:9px 0;border-bottom:1px dashed #eef2f7}
+
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(330px,1fr));gap:14px;align-items:start}
+.board{background:var(--panel);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);display:flex;flex-direction:column;overflow:hidden;scroll-margin-top:76px}
+.board.hl{box-shadow:0 0 0 2px #bfdbfe}
+.bhead{display:flex;align-items:center;gap:8px;padding:11px 14px 9px;border-bottom:1px solid #f1f5f9}
+.bhead .dot{width:7px;height:7px;border-radius:2px;flex-shrink:0}
+.bhead h2{font-size:14px;font-weight:600;flex:1}
+.bhead .cnt{font-size:11px;color:var(--text3);background:var(--bg);border-radius:9px;padding:1px 7px}
+.bhead .stale{font-size:11px;color:var(--orange);background:var(--orange-soft);border-radius:9px;padding:1px 7px}
+.bbody{padding:4px 14px 10px;max-height:clamp(300px,44vh,520px);overflow-y:auto;scrollbar-width:thin}
+.bbody::-webkit-scrollbar{width:6px}
+.bbody::-webkit-scrollbar-thumb{background:#dbe3ee;border-radius:3px}
+.bbody::-webkit-scrollbar-track{background:transparent}
+
+.row{display:flex;gap:9px;padding:8px 0;border-bottom:1px dashed #eef2f7}
 .row:last-child{border-bottom:none}
-.idx{flex-shrink:0;width:20px;text-align:right;font-size:12px;color:var(--text3);font-variant-numeric:tabular-nums;padding-top:2px}
+.idx{flex-shrink:0;width:18px;text-align:right;font-size:11.5px;color:var(--text3);font-variant-numeric:tabular-nums;padding-top:3px}
 .idx.top3{color:var(--red);font-weight:600}
 .body{flex:1;min-width:0}
-.t{font-size:14px;color:var(--text);text-decoration:none;display:block}
+.t{font-size:13.5px;line-height:1.5;color:var(--text);text-decoration:none;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
 a.t:hover{color:var(--primary);text-decoration:underline}
-.meta{font-size:11.5px;color:var(--text3);display:flex;gap:10px;flex-wrap:wrap;margin-top:3px;align-items:center}
-.tag{background:var(--bg);color:var(--text2);border-radius:4px;padding:0 5px;font-size:11px}
+.meta{font-size:11px;color:var(--text3);display:flex;gap:8px;flex-wrap:wrap;margin-top:4px;align-items:center}
+.tag{background:var(--bg);color:var(--text2);border-radius:4px;padding:0 5px}
 .hot{color:var(--orange)}
-.meta .stale{background:var(--orange-soft);color:var(--orange);border-radius:4px;padding:0 5px;font-size:11px}
+.meta .stale{background:var(--orange-soft);color:var(--orange);border-radius:4px;padding:0 5px}
 .kw{background:#fff7ed;color:#9a3412;border-radius:3px;padding:0 2px}
 mark{background:#fef08a;color:inherit;border-radius:2px;padding:0 1px}
-.empty{text-align:center;color:var(--text3);padding:40px 0;font-size:13px}
-footer{font-size:11.5px;color:var(--text3);margin-top:22px;line-height:1.9}
-.dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:#16a34a;margin-right:4px}
-.dot.bad{background:#f59e0b}
+.empty{text-align:center;color:var(--text3);padding:46px 0;font-size:13px;grid-column:1/-1}
+footer{font-size:11.5px;color:var(--text3);margin-top:18px;line-height:1.9}
+footer .dot{display:inline-block;width:6px;height:6px;border-radius:50%;background:#16a34a;margin-right:4px}
+footer .dot.bad{background:#f59e0b}
 #tip{background:var(--red-soft);color:#991b1b;border:1px solid #fecaca;border-radius:8px;padding:10px 14px;font-size:13px;margin-bottom:14px;display:none}
-@media(max-width:640px){.actions{margin-left:0;width:100%}h1{font-size:18px}}
+@media(max-width:640px){
+  .wrap{padding:14px 12px 32px}.actions{margin-left:0;width:100%}h1{font-size:18px}
+  input[type=search]{flex:1;width:auto}.grid{grid-template-columns:1fr}
+}
 </style>
 </head>
 <body>
@@ -66,22 +84,30 @@ footer{font-size:11.5px;color:var(--text3);margin-top:22px;line-height:1.9}
 
   <div id="tip"></div>
 
-  <div class="toolbar">
-    <div id="tabs" style="display:flex;gap:8px;flex-wrap:wrap"></div>
+  <div class="bar">
+    <div class="jump" id="jump"></div>
     <input type="search" id="q" placeholder="搜索标题 / 来源…" oninput="render()">
     <label class="toggle"><input type="checkbox" id="onlyKw" onchange="render()">只看关注词</label>
   </div>
 
-  <div id="list"></div>
+  <div class="grid" id="grid"></div>
 
   <footer id="foot"></footer>
 </div>
 
 <script>
 let DATA = null;
-let activeTab = 'all';
 
 const esc = (s) => String(s == null ? '' : s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+
+const ACCENT = {
+  daily: '#2563eb',
+  hot: '#dc2626',
+  tech: '#0f766e',
+  policy: '#475569',
+  finance: '#b45309',
+  'tech-en': '#6d28d9',
+};
 
 function fmtHot(n) {
   if (!n) return '';
@@ -118,61 +144,74 @@ function hi(text, words) {
 
 function match(item) {
   const q = document.getElementById('q').value.trim().toLowerCase();
-  const onlyKw = document.getElementById('onlyKw').checked;
-  if (onlyKw && !(item.kw && item.kw.length)) return false;
+  if (document.getElementById('onlyKw').checked && !(item.kw && item.kw.length)) return false;
   if (!q) return true;
   return (item.title + ' ' + (item.source || '') + ' ' + (item.desc || '')).toLowerCase().includes(q);
 }
 
 function render() {
   if (!DATA) return;
-  const tabs = document.getElementById('tabs');
-  tabs.innerHTML = [{ id: 'all', name: '全部', n: DATA.total }]
-    .concat(DATA.sections.map((s) => ({ id: s.id, name: s.name, n: s.items.length })))
-    .map((t) => `<div class="tab ${activeTab === t.id ? 'on' : ''}" onclick="setTab('${t.id}')">${esc(t.name)}<span class="n">${t.n}</span></div>`)
-    .join('');
 
-  const secs = DATA.sections.filter((s) => activeTab === 'all' || s.id === activeTab);
-  let html = '';
+  document.getElementById('jump').innerHTML = DATA.sections.map((s) =>
+    `<a href="#sec-${esc(s.id)}" onclick="jumpTo('${esc(s.id)}',event)"><i style="color:${ACCENT[s.id] || '#2563eb'}"></i>${esc(s.name)}<span class="n">${s.items.length}</span></a>`
+  ).join('');
+
+  const boards = [];
   let shown = 0;
-  for (const s of secs) {
+  for (const s of DATA.sections) {
     const items = s.items.filter(match);
     if (!items.length) continue;
     shown += items.length;
-    html += `<div class="card"><h2>${esc(s.name)}<span class="cnt">${items.length}</span>${s.stale ? `<span class="stale">上次缓存 · ${ago(s.updatedAt)}</span>` : ''}</h2>`;
-    html += items.map((it, i) => {
+    const accent = ACCENT[s.id] || '#2563eb';
+    const rows = items.map((it, i) => {
       const title = it.url
         ? `<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${hi(it.title, it.kw)}</a>`
         : `<span class="t">${hi(it.title, it.kw)}</span>`;
       const bits = [];
-      if (it.stale) bits.push(`<span class="stale">缓存</span>`);
+      if (it.stale) bits.push('<span class="stale">缓存</span>');
       if (it.platform || it.source) bits.push(`<span class="tag">${esc(it.platform || it.source)}</span>`);
       if (it.hot) bits.push(`<span class="hot">${fmtHot(it.hot)}</span>`);
       if (it.time) bits.push(ago(it.time));
-      if (it.desc) bits.push(`<span title="${esc(it.desc)}">${esc(it.desc.slice(0, 42))}${it.desc.length > 42 ? '…' : ''}</span>`);
-      return `<div class="row"><div class="idx ${i < 3 && !it.platform ? 'top3' : ''}">${it.rank || i + 1}</div><div class="body">${title}<div class="meta">${bits.join('')}</div></div></div>`;
+      return `<div class="row"><div class="idx ${i < 3 ? 'top3' : ''}">${it.rank || i + 1}</div><div class="body">${title}<div class="meta">${bits.join('')}</div></div></div>`;
     }).join('');
-    html += '</div>';
-  }
-  document.getElementById('list').innerHTML = html || '<div class="empty">没有匹配的内容，试试清空搜索或关闭「只看关注词」。</div>';
 
-  document.getElementById('sub').innerHTML = `数据日期 <b>${esc(DATA.date)}</b> · 共 <b>${DATA.total}</b> 条 · 生成于 ${ago(DATA.generatedAt)}${shown !== DATA.total ? ` · 当前显示 ${shown} 条` : ''}`;
+    boards.push(`<section class="board" id="sec-${esc(s.id)}">
+      <div class="bhead"><span class="dot" style="background:${accent}"></span><h2>${esc(s.name)}</h2>${s.stale ? `<span class="stale">上次缓存</span>` : ''}<span class="cnt">${items.length}</span></div>
+      <div class="bbody">${rows}</div>
+    </section>`);
+  }
+
+  document.getElementById('grid').innerHTML = boards.length
+    ? boards.join('')
+    : '<div class="empty">没有匹配的内容，试试清空搜索或关闭「只看关注词」。</div>';
+
+  document.getElementById('sub').innerHTML = `数据日期 <b>${esc(DATA.date)}</b> · <b>${DATA.sections.length}</b> 个板块 · 共 <b>${DATA.total}</b> 条 · 生成于 ${ago(DATA.generatedAt)}${shown !== DATA.total ? ` · 当前筛选出 ${shown} 条` : ''}`;
 
   const bad = (DATA.sources || []).filter((s) => !s.ok);
   document.getElementById('foot').innerHTML =
     `数据源：${(DATA.sources || []).map((s) => `<span class="dot ${s.ok ? '' : 'bad'}"></span>${esc(s.id)} ${s.count}`).join('　')}` +
-    (bad.length ? `<br>本次有 ${bad.length} 个源失败（多半是限流），失败的板块会自动沿用上一次缓存。` : '') +
-    `<br>该页面只读取本地 data/news.json，不发起任何第三方请求。`;
+    (bad.length ? `<br>本次 ${bad.length} 个源失败（多为限流），对应板块已沿用上一次缓存并标注「缓存」。` : '') +
+    `<br>页面只读取本地 data/news.json，不发起任何第三方请求。`;
 }
 
-function setTab(id) { activeTab = id; render(); }
+function jumpTo(id, ev) {
+  ev.preventDefault();
+  const el = document.getElementById('sec-' + id);
+  if (!el) return;
+  el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  el.classList.add('hl');
+  setTimeout(() => el.classList.remove('hl'), 1200);
+  history.replaceState(null, '', '#sec-' + id);
+}
 
 function exportMd() {
   if (!DATA) return;
   let md = `# 每日热点 · ${DATA.date}\n\n> 生成时间：${new Date(DATA.generatedAt).toLocaleString('zh-CN')}\n`;
   for (const s of DATA.sections) {
+    const items = s.items.filter(match);
+    if (!items.length) continue;
     md += `\n## ${s.name}\n\n`;
-    s.items.filter(match).forEach((it, i) => {
+    items.forEach((it, i) => {
       md += `${i + 1}. ${it.title}${it.url ? ` — [链接](${it.url})` : ''}\n`;
     });
   }
@@ -194,10 +233,10 @@ async function load(manual) {
     render();
   } catch (err) {
     tip.style.display = 'block';
-    tip.innerHTML = `读取 data/news.json 失败（${esc(err.message)}）。<br>如果你是双击打开的本地文件，浏览器会拦截本地读取——请在本目录执行 <b>npm run serve</b> 后访问 http://localhost:4173 。`;
+    tip.innerHTML = `读取 data/news.json 失败（${esc(err.message)}）。<br>双击打开本地文件时浏览器会拦截读取——请在本目录执行 <b>npm run serve</b> 后访问 http://localhost:4173 。`;
     document.getElementById('sub').textContent = '暂无数据';
   }
-  if (manual) location.hash = '';
+  if (manual && location.hash) history.replaceState(null, '', location.pathname);
 }
 
 load();

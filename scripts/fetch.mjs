@@ -237,7 +237,7 @@ async function main() {
 
   const feeds = [];
   for (const feed of cfg.sources.feeds) {
-    const items = await settle(`feed:${feed.name}`, async () => parseFeed(await httpGet(feed.url), feed.name)
+    const items = await settle(`feed:${feed.name}`, async () => parseFeed(await httpGet(feed.url, { timeout: 25000 }), feed.name)
       .slice(0, cfg.limits.perFeed)
       .map((it) => ({ ...it, section: feed.section })), []);
     feeds.push(...items);
