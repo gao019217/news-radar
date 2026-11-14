@@ -164,9 +164,8 @@ function render() {
     shown += items.length;
     const accent = ACCENT[s.id] || '#2563eb';
     const rows = items.map((it, i) => {
-      const title = it.url
-        ? `<a class="t" href="${esc(it.url)}" target="_blank" rel="noopener">${hi(it.title, it.kw)}</a>`
-        : `<span class="t">${hi(it.title, it.kw)}</span>`;
+      const link = it.url || ('https://www.baidu.com/s?wd=' + encodeURIComponent(it.title));
+      const title = `<a class="t" href="${esc(link)}" target="_blank" rel="noopener" title="${it.url ? '打开原文' : '点击搜索该新闻'}">${hi(it.title, it.kw)}</a>`;
       const bits = [];
       if (it.stale) bits.push('<span class="stale">缓存</span>');
       if (it.platform || it.source) bits.push(`<span class="tag">${esc(it.platform || it.source)}</span>`);

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T06:45:30.535Z",
-  "date": "2026-11-12",
+  "generatedAt": "2026-11-14T06:50:59.412Z",
+  "date": "2026-11-14",
   "total": 95,
   "sections": [
     {
@@ -8,7 +8,7 @@
       "name": "每日要闻",
       "items": [
         {
-          "title": "多地最低工资标准上调：最低涨 100 元，最高涨超 200 元，全国各省、自治区、直辖市第一档最低工资均已超过 2000 元",
+          "title": "新一轮大范围雨雪来袭：兰州、银川、太原或迎来今冬初雪，东北地区东部有暴雪或大暴雪",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -17,18 +17,16 @@
           "kw": []
         },
         {
-          "title": "央行：用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行",
+          "title": "10 月金融数据出炉：社会融资规模存量同比增长 7.2%；前十个月人民币贷款增加 11.42 万亿元",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 2,
           "hot": null,
-          "kw": [
-            "央行"
-          ]
+          "kw": []
         },
         {
-          "title": "上海全面调整道路停车收费：15 分钟内限次不收费，11 月 18 日起正式施行",
+          "title": "星图数据：“双 11” 全网电商销售额 17764 亿元，同比增长 4.8%；即时零售销售额 891 亿元，同比增长 33%",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -37,18 +35,16 @@
           "kw": []
         },
         {
-          "title": "中汽协：10 月新能源汽车月度新车销量占比达 64.3%，汽车出口连续五个月超百万辆",
+          "title": "多家银行 App\"瘦身\"：主要涉及民生服务、信用卡及直销银行",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 4,
           "hot": null,
-          "kw": [
-            "新能源"
-          ]
+          "kw": []
         },
         {
-          "title": "我国首款商用级中小型纯太阳能无人机首飞成功，最长续航 30 小时，可采用车载起飞方式",
+          "title": "2027 年全国硕士研究生招生考试报名人数为 347 万，连跌三年后回升 4 万",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -57,7 +53,7 @@
           "kw": []
         },
         {
-          "title": "四川一高校要求大学 4 年须跑 570 多公里，否则影响评优毕业？校方回应：方案还在征求意见",
+          "title": "江苏省教育厅：秋假后两周严禁学校组织任何形式文化学科考试",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -66,7 +62,7 @@
           "kw": []
         },
         {
-          "title": "山东一女子开车撞翻 300 多斤切糕，摊主索赔 2 万多元，车主：对方报价还算公道，保险公司正在协商",
+          "title": "飞秒手术要降价了：国内首款全飞屈光矫正仪进入临床试验，预计 2027 年 6 月上市",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -75,7 +71,7 @@
           "kw": []
         },
         {
-          "title": "拼多多新规 “上门送货服务” 11 月 13 日生效：商家违背服务承诺按照 10 元每单赔付用户",
+          "title": "国家卫健委明确：明年 3 月 16 日起，禁止使用 “零添加”“不添加” 等用语",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -84,18 +80,16 @@
           "kw": []
         },
         {
-          "title": "税务总局：离岸信托个税累计申报超 1600 亿，其中 10 月入库超 1200 亿元，带动当月收入增近 90%",
+          "title": "“今年是中国脑机接口的临床应用元年”：中国脑机接口植入患者人数已达 120 人",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 9,
           "hot": null,
-          "kw": [
-            "税务"
-          ]
+          "kw": []
         },
         {
-          "title": "我国已与 150 多个国家 30 多个国际组织签署共建 “一带一路” 合作文件，覆盖全球四分之三国家",
+          "title": "南京 “零元面馆” 设置门槛：仅 60 岁以上老人等四类人可免费，此前引起周边商户不满",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -104,7 +98,7 @@
           "kw": []
         },
         {
-          "title": "25 岁中国游客在日本富士山失联超 60 小时，富士山目前处于封山期，家属计划赴日寻人",
+          "title": "孟加拉国和印度宣布全面禁用百草枯，世卫称预计将挽救成千上万人的生命",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -113,7 +107,7 @@
           "kw": []
         },
         {
-          "title": "俄罗斯月球核电站新计划：2027 年选定方案，本世纪 30 年代中期开始运行",
+          "title": "英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -122,7 +116,7 @@
           "kw": []
         },
         {
-          "title": "美国拟削减 630 万人食品券资格，近 180 万儿童或失去免费学校午餐资格",
+          "title": "梅赛德斯 - 奔驰暂停在德国投资，并考虑关停工厂以应对竞争压力",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -131,7 +125,7 @@
           "kw": []
         },
         {
-          "title": "拜登在爱尔兰遭投掷牛奶盒等物品，被安保人员用雨伞挡下，至少两人被捕",
+          "title": "日本未来五年防卫预算或增至 60 万亿日元，远高于 2023 至 2027 财年的 43 万亿日元",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -140,7 +134,7 @@
           "kw": []
         },
         {
-          "title": "俄方公布本轮俄美乌三方会谈的部分成果：双方原则同意进行新一轮大规模在押人员交换",
+          "title": "五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判；俄称尚未同意让欧洲参与谈判",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -155,102 +149,102 @@
       "name": "全网热搜",
       "items": [
         {
-          "title": "被老师打到抽搐女孩父母常年在外务工",
-          "url": "https://s.weibo.com/weibo?q=%E8%A2%AB%E8%80%81%E5%B8%88%E6%89%93%E5%88%B0%E6%8A%BD%E6%90%90%E5%A5%B3%E5%AD%A9%E7%88%B6%E6%AF%8D%E5%B8%B8%E5%B9%B4%E5%9C%A8%E5%A4%96%E5%8A%A1%E5%B7%A5",
+          "title": "曝S16决赛还有重磅官宣",
+          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DS16%E5%86%B3%E8%B5%9B%E8%BF%98%E6%9C%89%E9%87%8D%E7%A3%85%E5%AE%98%E5%AE%A3",
           "source": "微博",
           "platform": "微博",
           "rank": 1,
-          "hot": 1151005,
+          "hot": 1109800,
           "desc": "",
           "kw": []
         },
         {
-          "title": "青稚给文吉儿表白 笑不出来",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E7%BB%99%E6%96%87%E5%90%89%E5%84%BF%E8%A1%A8%E7%99%BD%20%E7%AC%91%E4%B8%8D%E5%87%BA%E6%9D%A5",
+          "title": "无人健身房火了小伙5年开1300家",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6",
           "source": "微博",
           "platform": "微博",
           "rank": 2,
-          "hot": 862271,
+          "hot": 786695,
           "desc": "",
           "kw": []
         },
         {
-          "title": "中国外贸跑出好成绩",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E5%A4%96%E8%B4%B8%E8%B7%91%E5%87%BA%E5%A5%BD%E6%88%90%E7%BB%A9",
+          "title": "APEC中国年的新看点",
+          "url": "https://s.weibo.com/weibo?q=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%9A%84%E6%96%B0%E7%9C%8B%E7%82%B9",
           "source": "微博",
           "platform": "微博",
           "rank": 3,
-          "hot": 742753,
+          "hot": 625285,
           "desc": "",
           "kw": []
         },
         {
-          "title": "勇士火箭打架",
-          "url": "https://s.weibo.com/weibo?q=%E5%8B%87%E5%A3%AB%E7%81%AB%E7%AE%AD%E6%89%93%E6%9E%B6",
+          "title": "许飞 不知道厉娜喜欢什么就都准备了",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%8E%89%E5%A8%9C%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E5%B0%B1%E9%83%BD%E5%87%86%E5%A4%87%E4%BA%86",
           "source": "微博",
           "platform": "微博",
           "rank": 4,
-          "hot": 693970,
+          "hot": 608941,
           "desc": "",
           "kw": []
         },
         {
-          "title": "山姆399元羽绒服打脸谁",
-          "url": "https://s.weibo.com/weibo?q=%E5%B1%B1%E5%A7%86399%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E6%89%93%E8%84%B8%E8%B0%81",
+          "title": "奔驰女司机借300元加油钱后手机关机",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA",
           "source": "微博",
           "platform": "微博",
           "rank": 5,
-          "hot": 598532,
+          "hot": 567760,
           "desc": "",
           "kw": []
         },
         {
-          "title": "王子璇 我下次还会收费",
-          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E5%AD%90%E7%92%87%20%E6%88%91%E4%B8%8B%E6%AC%A1%E8%BF%98%E4%BC%9A%E6%94%B6%E8%B4%B9",
+          "title": "年轻人又抠又大方的消费观",
+          "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8A%A0%E5%8F%88%E5%A4%A7%E6%96%B9%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82",
           "source": "微博",
           "platform": "微博",
           "rank": 6,
-          "hot": 597838,
+          "hot": 445429,
           "desc": "",
           "kw": []
         },
         {
-          "title": "女子产后遭丈夫拒门外每月药费6千",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%90%E4%BA%A7%E5%90%8E%E9%81%AD%E4%B8%88%E5%A4%AB%E6%8B%92%E9%97%A8%E5%A4%96%E6%AF%8F%E6%9C%88%E8%8D%AF%E8%B4%B96%E5%8D%83",
+          "title": "陈晓楠说青稚的感觉不等于事实",
+          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%E8%AF%B4%E9%9D%92%E7%A8%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%B8%8D%E7%AD%89%E4%BA%8E%E4%BA%8B%E5%AE%9E",
           "source": "微博",
           "platform": "微博",
           "rank": 7,
-          "hot": 594509,
+          "hot": 409601,
           "desc": "",
           "kw": []
         },
         {
-          "title": "腾讯辟谣裁员50%",
-          "url": "https://s.weibo.com/weibo?q=%E8%85%BE%E8%AE%AF%E8%BE%9F%E8%B0%A3%E8%A3%81%E5%91%9850%25",
+          "title": "22岁男子确诊糖尿病不敢告诉同事",
+          "url": "https://s.weibo.com/weibo?q=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B",
           "source": "微博",
           "platform": "微博",
           "rank": 8,
-          "hot": 583929,
+          "hot": 401124,
           "desc": "",
           "kw": []
         },
         {
-          "title": "后会友期",
-          "url": "https://s.weibo.com/weibo?q=%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F",
+          "title": "911后第二次全美停飞",
+          "url": "https://s.weibo.com/weibo?q=911%E5%90%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E",
           "source": "微博",
           "platform": "微博",
           "rank": 9,
-          "hot": 549796,
+          "hot": 355358,
           "desc": "",
           "kw": []
         },
         {
-          "title": "冰尘退役",
-          "url": "https://s.weibo.com/weibo?q=%E5%86%B0%E5%B0%98%E9%80%80%E5%BD%B9",
+          "title": "把孩子塞后备箱被查家长说送给交警",
+          "url": "https://s.weibo.com/weibo?q=%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%A1%9E%E5%90%8E%E5%A4%87%E7%AE%B1%E8%A2%AB%E6%9F%A5%E5%AE%B6%E9%95%BF%E8%AF%B4%E9%80%81%E7%BB%99%E4%BA%A4%E8%AD%A6",
           "source": "微博",
           "platform": "微博",
           "rank": 10,
-          "hot": 516341,
+          "hot": 326240,
           "desc": "",
           "kw": []
         },
@@ -595,76 +589,78 @@
       "name": "科技与产业",
       "items": [
         {
-          "title": "派拉蒙《漫威 1943：九头蛇崛起》开发预算超支，游戏内容已大幅缩水",
-          "url": "https://www.ithome.com/1/026/070.htm",
+          "title": "百万级 CAR-T 抗癌药首次纳入我国基本医保，患者自付降至 10 万元以内",
+          "url": "https://www.ithome.com/1/027/136.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:34:23.000Z",
-          "desc": "<p data-vmark=\"8812\">IT之家 11 月 12 日消息，由顽皮狗《神秘海域》系列创作者艾米 · 亨尼格（Amy Hennig）主导开发的《漫威 1943：九头蛇崛起》已接近完成，但最终成品可能与最初的设计愿景存在较大差距",
+          "time": "2026-11-14T06:46:21.000Z",
+          "desc": "<p data-vmark=\"10a5\">IT之家 11 月 14 日消息，据科创板日报报道，在今天举办的 2026 创新药高质量发展大会上，最新版国家医保药品目录及商保创新药目录同步公布。</p><p data-vmark=\"b137\">",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "字节火山引擎发布 Seedance 2.5 flash 视频模型：生成速度翻倍，价格更低",
-          "url": "https://www.ithome.com/1/026/069.htm",
+          "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
+          "url": "https://www.ithome.com/1/027/135.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:33:05.000Z",
-          "desc": "<p data-vmark=\"62c2\">IT之家 11 月 12 日消息，字节火山引擎今日正式推出 Seedance 2.5 flash。</p><p data-vmark=\"360b\">官方表示，这是<strong>当前效果最接近 Se",
+          "time": "2026-11-14T06:39:48.000Z",
+          "desc": "<p data-vmark=\"1ed6\">IT之家 11 月 14 日消息，据外媒 Notebook Check 报道，部分玩家发现自己购买的《GTA6》游戏实体包装盒内竟然没有 Xbox 或 PlayStation Store 游戏兑换码",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "英国《卫报》预热将于 11 月 14 日发布《GTA 6》独家游戏专题，揭秘罪恶城地图现实取材过程",
-          "url": "https://www.ithome.com/1/026/067.htm",
+          "title": "我国第二艘国产大型邮轮“爱达 · 花城号”开启第二个试运营航次，将于 11 月 15 日抵达香港",
+          "url": "https://www.ithome.com/1/027/126.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:32:56.000Z",
-          "desc": "<p data-vmark=\"6892\">IT之家 11 月 12 日消息，英国《卫报》宣布将于 11 月 14 日刊登一篇《GTA 6》独家专题报道，内容部分基于对 Rockstar Games 开发人员 Rob Nelson 的专访，重",
+          "time": "2026-11-14T06:31:18.000Z",
+          "desc": "<p data-vmark=\"2f4c\">IT之家 11 月 14 日消息，据央视新闻报道，我国第二艘国产大型邮轮“爱达 · 花城号”今天从广州南沙国际邮轮母港出发，开启第二个试运营航次。</p><p style=\"text-align: ",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "重庆：力争到 2028 年全市可调度智算规模超 10 万 P",
-          "url": "https://www.ithome.com/1/026/066.htm",
+          "title": "超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名",
+          "url": "https://www.ithome.com/1/027/125.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:28:54.000Z",
-          "desc": "<p data-vmark=\"2601\">IT之家 11 月 12 日消息，重庆市人民政府办公厅近日印发《重庆市促进词元驱动的数据产业高质量发展行动计划（2026—2028 年）》，结合该市实际情况深化数字重庆建设。</p><p data-",
+          "time": "2026-11-14T06:27:33.000Z",
+          "desc": "<p data-vmark=\"eeff\">IT之家 11 月 14 日消息，近日，一个名为“Stand with Jensen”的请愿活动在网上流传开来，标题为“三十三年值得一个答案”，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "微软 11 月 Win11 更新收紧 PowerShell 安全检查，不规范脚本将失灵",
-          "url": "https://www.ithome.com/1/026/065.htm",
+          "title": "路透社：黄仁勋被指就婚外情误导英伟达高层，董事会已启动独立调查",
+          "url": "https://www.ithome.com/1/027/123.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:24:37.000Z",
-          "desc": "<p data-vmark=\"16c9\">IT之家 11 月 12 日消息，科技媒体 NeoWin 今天（11 月 12 日）发布博文，报道称本月补丁星期二面向 Windows 11 推送的累积更新中，微软收紧安全检查，<strong>因此",
+          "time": "2026-11-14T06:24:04.000Z",
+          "desc": "<p data-vmark=\"9a07\">IT之家 11 月 14 日消息，路透社今天（11 月 14 日）发布博文，在查阅英伟达公司内部邮件，并从两名知情人士处获悉，黄仁勋在婚外情信息方面，<strong>误导了包括总法律顾问蒂姆 · 泰",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "不用驾照也能“自驾游”，萝卜快跑、神州租车打造全球首个无人车租车服务",
-          "url": "https://www.ithome.com/1/026/064.htm",
+          "title": "Nothing 手机阵容明年翻倍至少 6 款，A036 等 3 款机型已现踪迹",
+          "url": "https://www.ithome.com/1/027/122.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:23:10.000Z",
-          "desc": "<p data-vmark=\"317e\">IT之家 11 月 12 日现场消息，百度世界 2026 于今日（11 月 12 日）在北京举办。会上，百度宣布旗下萝卜快跑与神州租车携手，<strong>开创了全球唯一的无人车“自驾游”服务模式<",
+          "time": "2026-11-14T06:09:10.000Z",
+          "desc": "<p data-vmark=\"6751\">IT之家 11 月 14 日消息，科技媒体 Smartprix 昨日（11 月 13 日）发布博文，<strong>报道称 Nothing 的手机阵容在 2027 年将扩至 6 款，目前已出现 A0",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "鸿海 2026 年前三季度归母净利润 1874.17 亿新台币，同比增长 30%",
-          "url": "https://www.ithome.com/1/026/063.htm",
+          "title": "比亚迪：网传“某数字能源出售给比亚迪”不实",
+          "url": "https://www.ithome.com/1/027/121.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:22:46.000Z",
-          "desc": "<p data-vmark=\"0000\">IT之家 11 月 12 日消息，鸿海今日发布 2026 财年（2026 年 1 月～2026 年 12 月）前三季度（2026 年 1 月～2026 年 9 月）报告：</p><ul class=",
+          "time": "2026-11-14T06:04:05.000Z",
+          "desc": "<p data-vmark=\"48a2\">IT之家 11 月 14 日消息，比亚迪网络举报中心公众号今日发文称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：<strong>该消息无任何事实依据，属于虚假信息</strong>。<",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "消息称某厂 2nm 中杯机型备案有顶配 16GB+1TB，预计为小米 18 标准版",
-          "url": "https://www.ithome.com/1/026/059.htm",
+          "title": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
+          "url": "https://www.ithome.com/1/027/120.htm",
           "source": "IT之家",
-          "time": "2026-11-12T06:14:31.000Z",
-          "desc": "<p data-vmark=\"5996\">IT之家 11 月 12 日消息，据微博博主 @数码闲聊站 今日透露，某厂 2nm 中杯机型有顶配 16GB+1TB，配备更强的定制超清屏幕 + 更强 2 亿像素大底影像 + 更大百瓦单电池，重量约",
+          "time": "2026-11-14T05:49:03.000Z",
+          "desc": "<p data-vmark=\"61d5\">IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 S3 535Ultra+ 激光换电版在国内上市，限时补贴价 7.88 万元起（电池租用）。</p><p data-vmark=\"3ea",
           "section": "tech",
-          "kw": []
+          "kw": [
+            "电池"
+          ]
         }
       ]
     },
@@ -751,74 +747,74 @@
       "name": "财政与财经",
       "items": [
         {
-          "title": "吉林发行30年期其他专项地方债，规模50.0000亿元，发行利率2.2100%，边际倍数22.05倍，倍数预期2.18。",
-          "url": "https://wallstreetcn.com/livenews/3198897",
+          "title": "微软：所有产品均正常运行。",
+          "url": "https://wallstreetcn.com/livenews/3200112",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:44:01.000Z",
-          "desc": "<p>吉林发行30年期其他专项地方债，规模50.0000亿元，发行利率2.2100%，边际倍数22.05倍，倍数预期2.18。</p> <p>数据来源：qeubee终端</p>",
+          "time": "2026-11-14T06:41:48.000Z",
+          "desc": "<p>微软：所有产品均正常运行。</p>",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "英伟达股价在Tradegate平台较昨日收盘价下跌7.4%。",
-          "url": "https://wallstreetcn.com/livenews/3198895",
+          "title": "美财长承认移居军事基地，斥责《华尔街日报》泄露住址信息",
+          "url": "https://wallstreetcn.com/livenews/3200111",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:42:26.000Z",
-          "desc": "<p>英伟达股价在Tradegate平台较昨日收盘价下跌7.4%。</p>",
+          "time": "2026-11-14T05:54:25.000Z",
+          "desc": "<p>据美国消费者新闻与商业频道（CNBC）13日报道，美国财政部长贝森特当天在接受该媒体采访时承认自己已从住所搬至一处军事基地，并称搬家的原因之一是美国《华尔街日报》刊登了一张其住所照片，上面包含地理位置信息。</p> <p>贝森特称，他",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "报道：SK海力士HBM4良率突破70%",
-          "url": "https://wallstreetcn.com/livenews/3198894",
+          "title": "伊朗表示，在“非常时期”不会恢复核安全保障措施。",
+          "url": "https://wallstreetcn.com/livenews/3200110",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:42:13.000Z",
-          "desc": "<p>据报道，SK海力士的HBM4良率近期已突破70%。不过，SK海力士尚未正式公布具体的良率数据。业界高度重视HBM4良率突破70%这一事实。良率是指合格产品数量与总产量的比值；在相同的计算标准下，良率从60%提高到70%，意味着在相同的",
+          "time": "2026-11-14T05:51:17.000Z",
+          "desc": "<p>伊朗表示，在“非常时期”不会恢复核安全保障措施。</p>",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "日经225指数收盘下跌0.7%，报60,819.36点。 日本东证指数收盘上涨0.2%，报3,937.33点。 韩国首尔综指收盘下跌0.6%，报5,342.73点。",
-          "url": "https://wallstreetcn.com/livenews/3198892",
+          "title": "北京15日正式供暖",
+          "url": "https://wallstreetcn.com/livenews/3200109",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:31:56.000Z",
-          "desc": "<p>日经225指数收盘下跌0.7%，报60,819.36点。</p> <p>日本东证指数收盘上涨0.2%，报3,937.33点。</p> <p>韩国首尔综指收盘下跌0.6%，报5,342.73点。</p>",
+          "time": "2026-11-14T05:40:29.000Z",
+          "desc": "<p>11月15日，北京地区将正式供暖。随着供暖季的临近，国网北京市电力公司全力落实度冬供电保障重点举措。国网北京电力调度控制中心预测，今冬北京电网最大负荷可达2900万千瓦，预计较冬季历史最大负荷增长约8.29%。（北京日报）</p>",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "全国总工会：今年重点支持建设200家工匠学院",
-          "url": "https://wallstreetcn.com/livenews/3198891",
+          "title": "华为数字能源将出售给比亚迪？比亚迪声明：无任何事实依据，属于虚假信息",
+          "url": "https://wallstreetcn.com/livenews/3200108",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:29:56.000Z",
-          "desc": "<p>为深化产业工人队伍建设改革、提升广大职工技术技能水平，全国总工会近日确定2026年重点支持建设的200家工匠学院名单，主要面向重点传统产业、新兴产业和未来产业，突出培训实效和职工技能提升成效。（央视新闻）</p>",
+          "time": "2026-11-14T05:24:26.000Z",
+          "desc": "<p>比亚迪网络举报中心今日发布声明称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：该消息无任何事实依据，属于虚假信息，请广大网友切勿轻信、转发。“网络不是法外之地，对于编造、传播虚假信息扰乱网络秩序的行为，我们将保留追究相关主",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "美国特使抵达莫斯科 将就俄乌冲突与普京会谈",
-          "url": "https://wallstreetcn.com/livenews/3198886",
+          "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
+          "url": "https://wallstreetcn.com/livenews/3200107",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:28:09.000Z",
-          "desc": "<p>美国特使史蒂夫·威特科夫和贾里德·库什纳周四抵达俄罗斯，将与俄罗斯总统弗拉基米尔·普京会谈，他试图推动达成和平协议，结束乌克兰冲突。（彭博）</p>",
+          "time": "2026-11-14T05:23:11.000Z",
+          "desc": "<p>据美联社报道，美国总统特朗普计划下周访问亚洲时带上马斯克。匿名政府官员透露，作为SpaceX和特斯拉的掌门人，马斯克在经济和国家安全方面拥有重要利益，这使他成为特朗普的宝贵顾问。官员还透露，特朗普并不打算提及黄仁勋相关事件，美国政府认",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "国家药监局批准注射用亚胺西福上市",
-          "url": "https://wallstreetcn.com/livenews/3198884",
+          "title": "伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。",
+          "url": "https://wallstreetcn.com/livenews/3200106",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:26:35.000Z",
-          "desc": "<p>近日，国家药品监督管理局批准苏州信诺维医药科技股份有限公司申报的1类创新药注射用亚胺西福（商品名称：福诺凯）上市，适应症为：医院获得性细菌性肺炎和呼吸机相关性细菌性肺炎（HABP/VABP）。该药适用于治疗18岁及以上患者中由下列对本",
+          "time": "2026-11-14T05:21:58.000Z",
+          "desc": "<p>伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。</p>",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "国家药监局批准芮弗西拜单抗注射液（皮下注射）上市",
-          "url": "https://wallstreetcn.com/livenews/3198882",
+          "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
+          "url": "https://wallstreetcn.com/livenews/3200105",
           "source": "华尔街见闻",
-          "time": "2026-11-12T06:25:53.000Z",
-          "desc": "<p>近日，国家药品监督管理局通过优先审评审批程序批准北京盛迪医药有限公司申报的芮弗西拜单抗注射液（皮下注射）（商品名：艾轻达）上市，该药品可与低脂饮食和其他降脂药物合用，用于治疗成人和12岁及以上青少年的纯合子型家族性高胆固醇血症（HoF",
+          "time": "2026-11-14T05:14:31.000Z",
+          "desc": "<p>据美国方面当地时间13日消息，美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求后者保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。</p> <p>相关信件显示，民主党参议员珍妮·沙",
           "section": "finance",
           "kw": []
         },
@@ -903,86 +899,86 @@
       "name": "海外技术热点",
       "items": [
         {
-          "title": "93% of paint splatters are valid Perl programs (2019)",
-          "url": "https://www.mcmillen.dev/sigbovik/",
+          "title": "Ggml v1.0.0",
+          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 344,
-          "time": "2026-11-11T22:34:23.000Z",
+          "hot": 159,
+          "time": "2026-11-14T02:28:29.000Z",
           "kw": []
         },
         {
-          "title": "Tim Peters has died",
-          "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 1066,
-          "time": "2026-11-11T07:03:17.000Z",
-          "kw": []
-        },
-        {
-          "title": "AWS emulator",
-          "url": "https://github.com/aws/aws-emulator",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 785,
-          "time": "2026-11-11T18:21:38.000Z",
-          "kw": []
-        },
-        {
-          "title": "Critical RCE Vulnerability in Apache HTTP Server",
-          "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 104,
-          "time": "2026-11-12T02:11:11.000Z",
-          "kw": []
-        },
-        {
-          "title": "Nvidia is preparing to oust Jensen Huang",
-          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 842,
-          "time": "2026-11-11T22:31:06.000Z",
-          "kw": []
-        },
-        {
-          "title": "Gemini Decisions API",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 368,
-          "time": "2026-11-11T18:32:42.000Z",
-          "kw": []
-        },
-        {
-          "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-          "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 459,
-          "time": "2026-11-11T16:38:44.000Z",
-          "kw": []
-        },
-        {
-          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 507,
-          "time": "2026-11-11T21:24:35.000Z",
+          "hot": 337,
+          "time": "2026-11-14T02:52:59.000Z",
           "kw": [
             "AI"
           ]
+        },
+        {
+          "title": "FAA issues national ground stop – lifted 4.5 hours later",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 1480,
+          "time": "2026-11-13T21:05:53.000Z",
+          "kw": []
+        },
+        {
+          "title": "Terminal borders that don't cost a cell",
+          "url": "https://www.joshka.net/cell-borders/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 186,
+          "time": "2026-11-13T23:06:40.000Z",
+          "kw": []
+        },
+        {
+          "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 91,
+          "time": "2026-11-14T00:06:04.000Z",
+          "kw": []
+        },
+        {
+          "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+          "url": "https://grounds.top/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 112,
+          "time": "2026-11-13T23:17:39.000Z",
+          "kw": []
+        },
+        {
+          "title": "What Happened to 3Com?",
+          "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 111,
+          "time": "2026-11-13T23:48:59.000Z",
+          "kw": []
+        },
+        {
+          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+          "url": "https://orcasairband.com/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 252,
+          "time": "2026-11-13T22:04:24.000Z",
+          "kw": []
         }
       ]
     }
@@ -1047,5 +1043,5 @@
       "count": 8
     }
   ],
-  "keywordHits": 7
+  "keywordHits": 5
 }
