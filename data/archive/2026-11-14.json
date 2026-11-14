@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T06:50:59.412Z",
+  "generatedAt": "2026-11-14T07:15:04.819Z",
   "date": "2026-11-14",
   "total": 95,
   "sections": [
@@ -154,17 +154,17 @@
           "source": "微博",
           "platform": "微博",
           "rank": 1,
-          "hot": 1109800,
+          "hot": 1153524,
           "desc": "",
           "kw": []
         },
         {
-          "title": "无人健身房火了小伙5年开1300家",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6",
+          "title": "奔驰女司机借300元加油钱后手机关机",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA",
           "source": "微博",
           "platform": "微博",
           "rank": 2,
-          "hot": 786695,
+          "hot": 845025,
           "desc": "",
           "kw": []
         },
@@ -174,7 +174,7 @@
           "source": "微博",
           "platform": "微博",
           "rank": 3,
-          "hot": 625285,
+          "hot": 844153,
           "desc": "",
           "kw": []
         },
@@ -184,17 +184,37 @@
           "source": "微博",
           "platform": "微博",
           "rank": 4,
-          "hot": 608941,
+          "hot": 844044,
           "desc": "",
           "kw": []
         },
         {
-          "title": "奔驰女司机借300元加油钱后手机关机",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA",
+          "title": "无人健身房火了小伙5年开1300家",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6",
           "source": "微博",
           "platform": "微博",
           "rank": 5,
-          "hot": 567760,
+          "hot": 507742,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "Lisa把钱塞在腰上会不会太帅了",
+          "url": "https://s.weibo.com/weibo?q=Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E5%9C%A8%E8%85%B0%E4%B8%8A%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%B8%85%E4%BA%86",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 6,
+          "hot": 479450,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "持械入宋",
+          "url": "https://s.weibo.com/weibo?q=%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 7,
+          "hot": 445796,
           "desc": "",
           "kw": []
         },
@@ -203,18 +223,8 @@
           "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8A%A0%E5%8F%88%E5%A4%A7%E6%96%B9%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82",
           "source": "微博",
           "platform": "微博",
-          "rank": 6,
-          "hot": 445429,
-          "desc": "",
-          "kw": []
-        },
-        {
-          "title": "陈晓楠说青稚的感觉不等于事实",
-          "url": "https://s.weibo.com/weibo?q=%E9%99%88%E6%99%93%E6%A5%A0%E8%AF%B4%E9%9D%92%E7%A8%9A%E7%9A%84%E6%84%9F%E8%A7%89%E4%B8%8D%E7%AD%89%E4%BA%8E%E4%BA%8B%E5%AE%9E",
-          "source": "微博",
-          "platform": "微博",
-          "rank": 7,
-          "hot": 409601,
+          "rank": 8,
+          "hot": 422962,
           "desc": "",
           "kw": []
         },
@@ -223,8 +233,8 @@
           "url": "https://s.weibo.com/weibo?q=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B",
           "source": "微博",
           "platform": "微博",
-          "rank": 8,
-          "hot": 401124,
+          "rank": 9,
+          "hot": 408798,
           "desc": "",
           "kw": []
         },
@@ -233,18 +243,8 @@
           "url": "https://s.weibo.com/weibo?q=911%E5%90%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E",
           "source": "微博",
           "platform": "微博",
-          "rank": 9,
-          "hot": 355358,
-          "desc": "",
-          "kw": []
-        },
-        {
-          "title": "把孩子塞后备箱被查家长说送给交警",
-          "url": "https://s.weibo.com/weibo?q=%E6%8A%8A%E5%AD%A9%E5%AD%90%E5%A1%9E%E5%90%8E%E5%A4%87%E7%AE%B1%E8%A2%AB%E6%9F%A5%E5%AE%B6%E9%95%BF%E8%AF%B4%E9%80%81%E7%BB%99%E4%BA%A4%E8%AD%A6",
-          "source": "微博",
-          "platform": "微博",
           "rank": 10,
-          "hot": 326240,
+          "hot": 319293,
           "desc": "",
           "kw": []
         },
@@ -589,78 +589,78 @@
       "name": "科技与产业",
       "items": [
         {
-          "title": "百万级 CAR-T 抗癌药首次纳入我国基本医保，患者自付降至 10 万元以内",
-          "url": "https://www.ithome.com/1/027/136.htm",
+          "title": "车内没有导航的另类解决方案？美车企 Slate 为“2.5 万美元极简皮卡”推出纸质地图",
+          "url": "https://www.ithome.com/1/027/145.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:46:21.000Z",
-          "desc": "<p data-vmark=\"10a5\">IT之家 11 月 14 日消息，据科创板日报报道，在今天举办的 2026 创新药高质量发展大会上，最新版国家医保药品目录及商保创新药目录同步公布。</p><p data-vmark=\"b137\">",
+          "time": "2026-11-14T07:04:31.000Z",
+          "desc": "<p data-vmark=\"9523\">IT之家 11 月 14 日消息，据外媒 motor1 报道，美国初创车企 Slate 为旗下<strong>主打极简配置的纯电皮卡</strong>推出了一款“无屏幕 GPS”：无需开机、不用支付",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "部分玩家反馈自己购买的《GTA6》游戏实体盒装版并未随附游戏兑换码，向经销商退款遭拒",
-          "url": "https://www.ithome.com/1/027/135.htm",
+          "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
+          "url": "https://www.ithome.com/1/027/144.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:39:48.000Z",
-          "desc": "<p data-vmark=\"1ed6\">IT之家 11 月 14 日消息，据外媒 Notebook Check 报道，部分玩家发现自己购买的《GTA6》游戏实体包装盒内竟然没有 Xbox 或 PlayStation Store 游戏兑换码",
+          "time": "2026-11-14T07:02:25.000Z",
+          "desc": "<p data-vmark=\"079c\">IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示，<strong>",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "我国第二艘国产大型邮轮“爱达 · 花城号”开启第二个试运营航次，将于 11 月 15 日抵达香港",
-          "url": "https://www.ithome.com/1/027/126.htm",
+          "title": "OPPO Reno17 系列参数曝光：2 亿像素主摄，11 月 16 日发布",
+          "url": "https://www.ithome.com/1/027/143.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:31:18.000Z",
-          "desc": "<p data-vmark=\"2f4c\">IT之家 11 月 14 日消息，据央视新闻报道，我国第二艘国产大型邮轮“爱达 · 花城号”今天从广州南沙国际邮轮母港出发，开启第二个试运营航次。</p><p style=\"text-align: ",
+          "time": "2026-11-14T07:00:13.000Z",
+          "desc": "<p data-vmark=\"b2dc\">IT之家 11 月 14 日消息，博主 @数码闲聊站 今日对 OPPO Reno17 系列手机参数进行了爆料汇总，新机将于 11 月 16 日 19:00 正式发布。</p><p data-vmar",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "超 5 万人请愿恢复黄仁勋英伟达 CEO 职务，马斯克参与签名",
-          "url": "https://www.ithome.com/1/027/125.htm",
+          "title": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%",
+          "url": "https://www.ithome.com/1/027/142.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:27:33.000Z",
-          "desc": "<p data-vmark=\"eeff\">IT之家 11 月 14 日消息，近日，一个名为“Stand with Jensen”的请愿活动在网上流传开来，标题为“三十三年值得一个答案”，要求英伟达董事会恢复黄仁勋的 CEO 职务。截至IT之",
+          "time": "2026-11-14T06:58:27.000Z",
+          "desc": "<p data-vmark=\"d9f7\">IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。</p>",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "路透社：黄仁勋被指就婚外情误导英伟达高层，董事会已启动独立调查",
-          "url": "https://www.ithome.com/1/027/123.htm",
+          "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
+          "url": "https://www.ithome.com/1/027/141.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:24:04.000Z",
-          "desc": "<p data-vmark=\"9a07\">IT之家 11 月 14 日消息，路透社今天（11 月 14 日）发布博文，在查阅英伟达公司内部邮件，并从两名知情人士处获悉，黄仁勋在婚外情信息方面，<strong>误导了包括总法律顾问蒂姆 · 泰",
+          "time": "2026-11-14T06:57:17.000Z",
+          "desc": "<p data-vmark=\"c9a7\">IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini ",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "Nothing 手机阵容明年翻倍至少 6 款，A036 等 3 款机型已现踪迹",
-          "url": "https://www.ithome.com/1/027/122.htm",
+          "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
+          "url": "https://www.ithome.com/1/027/140.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:09:10.000Z",
-          "desc": "<p data-vmark=\"6751\">IT之家 11 月 14 日消息，科技媒体 Smartprix 昨日（11 月 13 日）发布博文，<strong>报道称 Nothing 的手机阵容在 2027 年将扩至 6 款，目前已出现 A0",
-          "section": "tech",
-          "kw": []
-        },
-        {
-          "title": "比亚迪：网传“某数字能源出售给比亚迪”不实",
-          "url": "https://www.ithome.com/1/027/121.htm",
-          "source": "IT之家",
-          "time": "2026-11-14T06:04:05.000Z",
-          "desc": "<p data-vmark=\"48a2\">IT之家 11 月 14 日消息，比亚迪网络举报中心公众号今日发文称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：<strong>该消息无任何事实依据，属于虚假信息</strong>。<",
-          "section": "tech",
-          "kw": []
-        },
-        {
-          "title": "极狐贝塔 S3 激光换电版上市：宁德时代电池，限时补贴价 7.88 万元起",
-          "url": "https://www.ithome.com/1/027/120.htm",
-          "source": "IT之家",
-          "time": "2026-11-14T05:49:03.000Z",
-          "desc": "<p data-vmark=\"61d5\">IT之家 11 月 14 日消息，11 月 13 日，极狐贝塔 S3 535Ultra+ 激光换电版在国内上市，限时补贴价 7.88 万元起（电池租用）。</p><p data-vmark=\"3ea",
+          "time": "2026-11-14T06:53:32.000Z",
+          "desc": "<p data-vmark=\"e3eb\">IT之家 11 月 14 日消息，谷歌宣布进一步扩展旗下 Antigravity 多智能体系统，利用多个由 Gemini 模型驱动的专业智能体组成 Teamwork 系统，号称可解决“长期悬而未决的",
           "section": "tech",
           "kw": [
-            "电池"
+            "AI"
           ]
+        },
+        {
+          "title": "堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真",
+          "url": "https://www.ithome.com/1/027/138.htm",
+          "source": "IT之家",
+          "time": "2026-11-14T06:48:54.000Z",
+          "desc": "<p data-vmark=\"c137\">IT之家 11 月 14 日消息，据新加坡《商业时报》昨日（11 月 13 日）报道，受微软多项软件服务全球性故障影响，<strong>全球金融业务遭受重创，部分交易员被迫改用电话、WhatsApp",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "微博官方 11.11 返场：会员年卡 49.4 元、SVIP 年卡 117 元大促",
+          "url": "https://www.ithome.com/1/027/137.htm",
+          "source": "IT之家",
+          "time": "2026-11-14T06:47:59.000Z",
+          "desc": "<p data-vmark=\"6d1b\">微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，领券立减 10 元 + 可用淘金币抵扣 0.6 元，到手仅需 49.4 元。约合 4.12 元 / 月。</p><dir><a h",
+          "section": "tech",
+          "kw": []
         }
       ]
     },
@@ -747,6 +747,15 @@
       "name": "财政与财经",
       "items": [
         {
+          "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
+          "url": "https://wallstreetcn.com/livenews/3200113",
+          "source": "华尔街见闻",
+          "time": "2026-11-14T06:54:41.000Z",
+          "desc": "<p>11月13日，中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议。双方以中美元首会晤重要共识为引领，围绕落实前期中美经贸磋商成果，就关税、“300亿对300亿”对等降税安排、农产品贸易以及各自关心的其他议题进行了坦诚、",
+          "section": "finance",
+          "kw": []
+        },
+        {
           "title": "微软：所有产品均正常运行。",
           "url": "https://wallstreetcn.com/livenews/3200112",
           "source": "华尔街见闻",
@@ -806,15 +815,6 @@
           "source": "华尔街见闻",
           "time": "2026-11-14T05:21:58.000Z",
           "desc": "<p>伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "盯上马斯克？美民主党人据称要求保留“星链”限速记录",
-          "url": "https://wallstreetcn.com/livenews/3200105",
-          "source": "华尔街见闻",
-          "time": "2026-11-14T05:14:31.000Z",
-          "desc": "<p>据美国方面当地时间13日消息，美国两名民主党籍联邦参议员已正式致信美国太空探索技术公司（SpaceX）首席执行官马斯克，要求后者保留关于限制乌克兰使用“星链”和“星盾”系统的所有记录。</p> <p>相关信件显示，民主党参议员珍妮·沙",
           "section": "finance",
           "kw": []
         },
@@ -904,7 +904,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 159,
+          "hot": 174,
           "time": "2026-11-14T02:28:29.000Z",
           "kw": []
         },
@@ -914,7 +914,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 337,
+          "hot": 368,
           "time": "2026-11-14T02:52:59.000Z",
           "kw": [
             "AI"
@@ -926,7 +926,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 1480,
+          "hot": 1489,
           "time": "2026-11-13T21:05:53.000Z",
           "kw": []
         },
@@ -936,7 +936,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 186,
+          "hot": 193,
           "time": "2026-11-13T23:06:40.000Z",
           "kw": []
         },
@@ -946,7 +946,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 91,
+          "hot": 97,
           "time": "2026-11-14T00:06:04.000Z",
           "kw": []
         },
@@ -956,7 +956,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 112,
+          "hot": 115,
           "time": "2026-11-13T23:17:39.000Z",
           "kw": []
         },
@@ -966,7 +966,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 111,
+          "hot": 115,
           "time": "2026-11-13T23:48:59.000Z",
           "kw": []
         },
@@ -976,7 +976,7 @@
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 252,
+          "hot": 253,
           "time": "2026-11-13T22:04:24.000Z",
           "kw": []
         }
