@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-14T07:15:04.819Z",
-  "date": "2026-11-14",
+  "generatedAt": "2026-11-15T05:29:05.473Z",
+  "date": "2026-11-15",
   "total": 95,
   "sections": [
     {
@@ -8,7 +8,7 @@
       "name": "每日要闻",
       "items": [
         {
-          "title": "新一轮大范围雨雪来袭：兰州、银川、太原或迎来今冬初雪，东北地区东部有暴雪或大暴雪",
+          "title": "雪假来了，多地已公布放假时间：时长 3 天，与周六周日连休，形成 5 天小长假",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -17,7 +17,7 @@
           "kw": []
         },
         {
-          "title": "10 月金融数据出炉：社会融资规模存量同比增长 7.2%；前十个月人民币贷款增加 11.42 万亿元",
+          "title": "国铁集团：今年 1 至 10 月全国铁路累计发送旅客 41.3 亿人次，同比增长 4.7%，创历史同期新高",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -26,7 +26,7 @@
           "kw": []
         },
         {
-          "title": "星图数据：“双 11” 全网电商销售额 17764 亿元，同比增长 4.8%；即时零售销售额 891 亿元，同比增长 33%",
+          "title": "2026 年版国家基本医保药品目录发布：新增 107 种药品，其中 51 个为 1 类创新药，再创历史新高",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -35,7 +35,7 @@
           "kw": []
         },
         {
-          "title": "多家银行 App\"瘦身\"：主要涉及民生服务、信用卡及直销银行",
+          "title": "百万级 CAR - T 抗癌药首次纳入基本医保，患者自付金额有望降至 10 万元以内",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -44,7 +44,7 @@
           "kw": []
         },
         {
-          "title": "2027 年全国硕士研究生招生考试报名人数为 347 万，连跌三年后回升 4 万",
+          "title": "全国多地优化停车收费：包括短时免费、夜间降价、包月费用下调等",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -53,16 +53,18 @@
           "kw": []
         },
         {
-          "title": "江苏省教育厅：秋假后两周严禁学校组织任何形式文化学科考试",
+          "title": "南方五省区：每新增 3 度电就有 1 度多流向新能源汽车产业链，10 月整车制造用电增近 43%",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 6,
           "hot": null,
-          "kw": []
+          "kw": [
+            "新能源"
+          ]
         },
         {
-          "title": "飞秒手术要降价了：国内首款全飞屈光矫正仪进入临床试验，预计 2027 年 6 月上市",
+          "title": "首个汽车改装管理办法公开征求意见，将带动数千亿级消费市场",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -71,7 +73,7 @@
           "kw": []
         },
         {
-          "title": "国家卫健委明确：明年 3 月 16 日起，禁止使用 “零添加”“不添加” 等用语",
+          "title": "我国 10 吨级电动商用飞机有人驾驶首飞成功：可载 19 名乘客，航程 400 公里",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -80,7 +82,7 @@
           "kw": []
         },
         {
-          "title": "“今年是中国脑机接口的临床应用元年”：中国脑机接口植入患者人数已达 120 人",
+          "title": "DeepSeek 正式宣布开放全家桶应用 API，人人都能打造自己的超级 App",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -89,7 +91,7 @@
           "kw": []
         },
         {
-          "title": "南京 “零元面馆” 设置门槛：仅 60 岁以上老人等四类人可免费，此前引起周边商户不满",
+          "title": "世界气象组织：2026 年全球平均海平面创历史新高，地球能量失衡创纪录",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -98,7 +100,7 @@
           "kw": []
         },
         {
-          "title": "孟加拉国和印度宣布全面禁用百草枯，世卫称预计将挽救成千上万人的生命",
+          "title": "美 “星舰” 第 15 次试飞：助推器未能按计划返回发射场，在墨西哥湾海域受控溅落，首次挑战 “双回收” 失利",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -107,7 +109,7 @@
           "kw": []
         },
         {
-          "title": "英伟达员工发起挽留行动：内部投票超 97% 希望黄仁勋回归",
+          "title": "英伟达市值跌破 4 万亿美元，本周累计下跌 13%，市值蒸发超过 5730 亿美元",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -116,16 +118,18 @@
           "kw": []
         },
         {
-          "title": "梅赛德斯 - 奔驰暂停在德国投资，并考虑关停工厂以应对竞争压力",
+          "title": "OpenAI 推出 ChatGPT 钱包：联手美国运通、万事达和 Visa 三大支付网络，为 AI 代理付款铺路",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 13,
           "hot": null,
-          "kw": []
+          "kw": [
+            "AI"
+          ]
         },
         {
-          "title": "日本未来五年防卫预算或增至 60 万亿日元，远高于 2023 至 2027 财年的 43 万亿日元",
+          "title": "美国全国停飞 4 小时 20 分：自 “9・11” 后第二次全美禁飞，近 1.5 万架次航班受影响，大批旅客滞留",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -134,7 +138,7 @@
           "kw": []
         },
         {
-          "title": "五国及欧盟机构将代表欧洲参与下一轮乌克兰问题谈判；俄称尚未同意让欧洲参与谈判",
+          "title": "乌总统称美方曾建议乌放弃顿巴斯地区，以换取北约成员国资格",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -149,216 +153,204 @@
       "name": "全网热搜",
       "items": [
         {
-          "title": "曝S16决赛还有重磅官宣",
-          "url": "https://s.weibo.com/weibo?q=%E6%9B%9DS16%E5%86%B3%E8%B5%9B%E8%BF%98%E6%9C%89%E9%87%8D%E7%A3%85%E5%AE%98%E5%AE%A3",
+          "title": "尖叫之夜阵容",
+          "url": "https://s.weibo.com/weibo?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%98%B5%E5%AE%B9",
           "source": "微博",
           "platform": "微博",
           "rank": 1,
-          "hot": 1153524,
+          "hot": 1188422,
           "desc": "",
           "kw": []
         },
         {
-          "title": "奔驰女司机借300元加油钱后手机关机",
-          "url": "https://s.weibo.com/weibo?q=%E5%A5%94%E9%A9%B0%E5%A5%B3%E5%8F%B8%E6%9C%BA%E5%80%9F300%E5%85%83%E5%8A%A0%E6%B2%B9%E9%92%B1%E5%90%8E%E6%89%8B%E6%9C%BA%E5%85%B3%E6%9C%BA",
+          "title": "Bin成为LPL历史首位大满贯上路选手",
+          "url": "https://s.weibo.com/weibo?q=Bin%E6%88%90%E4%B8%BALPL%E5%8E%86%E5%8F%B2%E9%A6%96%E4%BD%8D%E5%A4%A7%E6%BB%A1%E8%B4%AF%E4%B8%8A%E8%B7%AF%E9%80%89%E6%89%8B",
           "source": "微博",
           "platform": "微博",
           "rank": 2,
-          "hot": 845025,
+          "hot": 928347,
           "desc": "",
           "kw": []
         },
         {
-          "title": "APEC中国年的新看点",
-          "url": "https://s.weibo.com/weibo?q=APEC%E4%B8%AD%E5%9B%BD%E5%B9%B4%E7%9A%84%E6%96%B0%E7%9C%8B%E7%82%B9",
+          "title": "4分钟读懂APEC",
+          "url": "https://s.weibo.com/weibo?q=4%E5%88%86%E9%92%9F%E8%AF%BB%E6%87%82APEC",
           "source": "微博",
           "platform": "微博",
           "rank": 3,
-          "hot": 844153,
+          "hot": 817053,
           "desc": "",
           "kw": []
         },
         {
-          "title": "许飞 不知道厉娜喜欢什么就都准备了",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%B8%E9%A3%9E%20%E4%B8%8D%E7%9F%A5%E9%81%93%E5%8E%89%E5%A8%9C%E5%96%9C%E6%AC%A2%E4%BB%80%E4%B9%88%E5%B0%B1%E9%83%BD%E5%87%86%E5%A4%87%E4%BA%86",
+          "title": "Tim说难听话抽奖",
+          "url": "https://s.weibo.com/weibo?q=Tim%E8%AF%B4%E9%9A%BE%E5%90%AC%E8%AF%9D%E6%8A%BD%E5%A5%96",
           "source": "微博",
           "platform": "微博",
           "rank": 4,
-          "hot": 844044,
+          "hot": 765414,
           "desc": "",
           "kw": []
         },
         {
-          "title": "无人健身房火了小伙5年开1300家",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A0%E4%BA%BA%E5%81%A5%E8%BA%AB%E6%88%BF%E7%81%AB%E4%BA%86%E5%B0%8F%E4%BC%995%E5%B9%B4%E5%BC%801300%E5%AE%B6",
+          "title": "女孩5岁白血病终末期如今已45岁",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%AD%A95%E5%B2%81%E7%99%BD%E8%A1%80%E7%97%85%E7%BB%88%E6%9C%AB%E6%9C%9F%E5%A6%82%E4%BB%8A%E5%B7%B245%E5%B2%81",
           "source": "微博",
           "platform": "微博",
           "rank": 5,
-          "hot": 507742,
+          "hot": 733377,
           "desc": "",
           "kw": []
         },
         {
-          "title": "Lisa把钱塞在腰上会不会太帅了",
-          "url": "https://s.weibo.com/weibo?q=Lisa%E6%8A%8A%E9%92%B1%E5%A1%9E%E5%9C%A8%E8%85%B0%E4%B8%8A%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%A4%AA%E5%B8%85%E4%BA%86",
+          "title": "BLG夺冠Tim送iPhoneDuo",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0Tim%E9%80%81iPhoneDuo",
           "source": "微博",
           "platform": "微博",
           "rank": 6,
-          "hot": 479450,
+          "hot": 705150,
           "desc": "",
           "kw": []
         },
         {
-          "title": "持械入宋",
-          "url": "https://s.weibo.com/weibo?q=%E6%8C%81%E6%A2%B0%E5%85%A5%E5%AE%8B",
+          "title": "BLG夺冠引来半个娱乐圈",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%A4%BA%E5%86%A0%E5%BC%95%E6%9D%A5%E5%8D%8A%E4%B8%AA%E5%A8%B1%E4%B9%90%E5%9C%88",
           "source": "微博",
           "platform": "微博",
           "rank": 7,
-          "hot": 445796,
+          "hot": 678808,
           "desc": "",
           "kw": []
         },
         {
-          "title": "年轻人又抠又大方的消费观",
-          "url": "https://s.weibo.com/weibo?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%88%E6%8A%A0%E5%8F%88%E5%A4%A7%E6%96%B9%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82",
+          "title": "中国砒霜治疗成国际方案",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%A0%92%E9%9C%9C%E6%B2%BB%E7%96%97%E6%88%90%E5%9B%BD%E9%99%85%E6%96%B9%E6%A1%88",
           "source": "微博",
           "platform": "微博",
           "rank": 8,
-          "hot": 422962,
+          "hot": 637841,
           "desc": "",
           "kw": []
         },
         {
-          "title": "22岁男子确诊糖尿病不敢告诉同事",
-          "url": "https://s.weibo.com/weibo?q=22%E5%B2%81%E7%94%B7%E5%AD%90%E7%A1%AE%E8%AF%8A%E7%B3%96%E5%B0%BF%E7%97%85%E4%B8%8D%E6%95%A2%E5%91%8A%E8%AF%89%E5%90%8C%E4%BA%8B",
+          "title": "王楚然用袖子给宋亚轩赶虫子",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%94%A8%E8%A2%96%E5%AD%90%E7%BB%99%E5%AE%8B%E4%BA%9A%E8%BD%A9%E8%B5%B6%E8%99%AB%E5%AD%90",
           "source": "微博",
           "platform": "微博",
           "rank": 9,
-          "hot": 408798,
+          "hot": 490030,
           "desc": "",
           "kw": []
         },
         {
-          "title": "911后第二次全美停飞",
-          "url": "https://s.weibo.com/weibo?q=911%E5%90%8E%E7%AC%AC%E4%BA%8C%E6%AC%A1%E5%85%A8%E7%BE%8E%E5%81%9C%E9%A3%9E",
+          "title": "孙悦婚礼孙卓落泪拥抱姐姐",
+          "url": "https://s.weibo.com/weibo?q=%E5%AD%99%E6%82%A6%E5%A9%9A%E7%A4%BC%E5%AD%99%E5%8D%93%E8%90%BD%E6%B3%AA%E6%8B%A5%E6%8A%B1%E5%A7%90%E5%A7%90",
           "source": "微博",
           "platform": "微博",
           "rank": 10,
-          "hot": 319293,
+          "hot": 470957,
           "desc": "",
           "kw": []
         },
         {
-          "title": "S16 半决赛 BLG 3:1 淘汰卫冕冠军 T1，终结 T1 四连冠可能性，如何评价这场比赛？",
-          "url": "https://www.zhihu.com/question/2102992165089579738",
+          "title": "S16 总决赛 BLG 3:1 击败 GEN，中国战队时隔 5 年再夺总冠军，如何评价这场比赛？",
+          "url": "https://www.zhihu.com/question/2105016991765509602",
           "source": "知乎",
           "platform": "知乎",
           "rank": 1,
           "hot": null,
-          "desc": "",
-          "kw": [],
-          "stale": true
+          "desc": "决胜局前期Ruler霞在下路连续击杀Viper芸阿娜，帮助GEN建立优势。BLG则围绕上路展开反击，Bin格温配合knight卡牌越塔击杀Kiin阿萝拉，随后Xun梦魇抢下先锋，双方经济持平。 中期小",
+          "kw": []
         },
         {
-          "title": "自媒体曝胖东来爆火的卡蓓诺洗发水疑为非日本制造，胖东来否认产地造假并将启动维权，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2102487963552765120",
+          "title": "Knight 获得 S16 总决赛 FMVP，成为继田野后 LPL 第二位大满贯，对此你有什么想说的？",
+          "url": "https://www.zhihu.com/question/2105214731573096596",
           "source": "知乎",
           "platform": "知乎",
           "rank": 2,
           "hot": null,
-          "desc": "今天（8日），胖东来商贸集团发布《关于“卡蓓诺洗发水”相关不实信息的说明》，全文如下： 2026年11月7日，网络平台出现“胖东来销售卡蓓诺洗发水产地造假”的相关视频，对此公司高度重视。 此类不实信息",
-          "kw": [],
-          "stale": true
+          "desc": "BLG夺得2026全球总决赛冠军，Knight就此集齐先锋赛、MSI与世界赛三项国际大赛冠军，成为LPL赛区继Meiko之后又一位满贯选手。 Knight此前已随TES、JDG、BLG三支战队多次夺得",
+          "kw": []
         },
         {
-          "title": "5吨的大象都会被吃，骆驼却几乎无天敌，为啥没有食肉动物吃它呢？",
-          "url": "https://www.zhihu.com/question/2102402187066356442",
+          "title": "如何看待王传君谈《爱情公寓》言论争议，称当年脑子里只有「关我屁事」和「关你屁事」，现在为冲动买单？",
+          "url": "https://www.zhihu.com/question/2103430981067846812",
           "source": "知乎",
           "platform": "知乎",
           "rank": 3,
           "hot": null,
-          "desc": "动物世界里有个挺反差的事。五吨重的大象，偶尔还会被狮群盯上，可骆驼，明明没那么夸张的块头，却在野外几乎没天敌。很多食肉动物，看见它都得绕道。这事儿，得从骆驼自己身上找原因。",
-          "kw": [],
-          "stale": true
+          "desc": "11月9日，《陈鲁豫・慢谈》最新一期上线，嘉宾王传君在长访谈中正面回应多年前因批评《爱情公寓》引发的争议。 节目中，鲁豫问他回头看当年演“关谷神奇”这个角色“算不算完成任务”，王传君干脆回答“完成了”",
+          "kw": []
         },
         {
-          "title": "「世另我」左右手首次在全球总决赛顶峰相见，你看好谁最终夺得 S16 总决赛冠军？",
-          "url": "https://www.zhihu.com/question/2103059985731155544",
+          "title": "男子失业后断供房贷靠跑外卖维生，法院判决非恶意断供，涉案房系唯一住所暂不拍卖房产，如何从法律角度解读？",
+          "url": "https://www.zhihu.com/question/2104510599564636472",
           "source": "知乎",
           "platform": "知乎",
           "rank": 4,
           "hot": null,
-          "desc": "",
-          "kw": [],
-          "stale": true
+          "desc": "房贷断供，就是刻意欠债、规避履行？不一定。司法实践中，不少断供案件背后并非主观“失信”，而是生活变故导致的暂时履约“失能”。一边是银行不良贷款清收的刚性时限，一边是普通家庭唯一住房的存续希望。房产是否",
+          "kw": []
         },
         {
-          "title": "如何评价 Faker 在 S16 全球总决赛上的表现？",
-          "url": "https://www.zhihu.com/question/2103063049640977024",
+          "title": "C 罗退出国家队后，葡萄牙1-4惨败丹麦，霍伊伦双响B席破门，如何看待这场比赛？",
+          "url": "https://www.zhihu.com/question/2105211169116051095",
           "source": "知乎",
           "platform": "知乎",
           "rank": 5,
           "hot": null,
-          "desc": "",
-          "kw": [],
-          "stale": true
+          "desc": "北京时间11月15日凌晨3时45分，2026-27赛季欧国联A4组第5轮在布拉加市政球场展开角逐，C罗国家队退役后首场比赛，葡萄牙主场迎战丹麦。上半场第7分钟葡萄牙主场致敬C罗，鲁本·迪亚斯手球送点，",
+          "kw": []
         },
         {
-          "title": "微信状态发「画地为牢」被公司辞退，理由是「工作不积极」，社交吐槽能成为公司解除劳动关系的理由吗？",
-          "url": "https://www.zhihu.com/question/2102861867601479373",
+          "title": "BLG 单刷 LCK 赛区四支战队夺冠，这是不是迄今为止最具含金量的冠军？",
+          "url": "https://www.zhihu.com/question/2105210095055459716",
           "source": "知乎",
           "platform": "知乎",
           "rank": 6,
           "hot": null,
-          "desc": "近日，一名网友发微信状态自嘲“画地为牢”，配的是周一上班的状态。 结果周一当天，公司以“工作态度不积极”为由，把他辞退了。荔枝新闻中心深潜工作室记者与该网友取得联系后确认，他已离职并获得相应赔偿。 在",
-          "kw": [],
-          "stale": true
+          "desc": "",
+          "kw": []
         },
         {
-          "title": "如何看待蔡少芬一家五口在中国香港住83平米房子却说是「豪宅」，很知足？",
-          "url": "https://www.zhihu.com/question/2102923372690663317",
+          "title": "台式电脑送人，留下了硬盘。想彻底清除硬盘信息，2个简单方法:用脏水泡，用锤子砸，可靠吗？",
+          "url": "https://www.zhihu.com/question/8693825512",
           "source": "知乎",
           "platform": "知乎",
           "rank": 7,
           "hot": null,
-          "desc": "蔡少芬一家五口搬回中国香港居住生活，她家在香港住83平米房子却说是“豪宅”，并且很知足。蔡少芬一家五口在香港住83平的房子 香港的“豪宅”标准",
-          "kw": [],
-          "stale": true
+          "desc": "",
+          "kw": []
         },
         {
-          "title": "为什么小米、华为、理想、小鹏、蔚来等新能源车企虽然有竞争，却都不约而同要放弃和宁德时代的单一合作？",
-          "url": "https://www.zhihu.com/question/2081333782171465172",
+          "title": "奔驰司机以车辆没油为由向路人借钱，收钱后便失联，涉事者将承担哪些责任？遇到类似求助该如何辨别真假？",
+          "url": "https://www.zhihu.com/question/2104966310362879741",
           "source": "知乎",
           "platform": "知乎",
           "rank": 8,
           "hot": null,
-          "desc": "1. 理想：26.5亿入股欣旺达，主力车型切换其电池，仅顶配短期保留宁德时代 。 2. 小米：高端车型继续用宁德，性价比新系列改用欣旺达、中创新航并自研龙甲电池 。 3. 鸿蒙智行（华为）：尊界高端款",
-          "kw": [
-            "新能源"
-          ],
-          "stale": true
+          "desc": "据新京报，11月14日，四川凉山陈女士称，10日她驾车取货路上遇到一奔驰司机招手拦车，她以为对方有急事就停车询问，对方称车辆油不足想借钱加油，她便借了300元现金给奔驰女司机，还留了对方电话，近几日对",
+          "kw": []
         },
         {
-          "title": "无锡出现女用站立式小便厕位，以导流机制实现站立排尿，从生理上该机制科学吗？社会面有推广的可能吗？",
-          "url": "https://www.zhihu.com/question/2103036247652267362",
+          "title": "于东来称胖东来的经营永远不会完美，不要因认知差异而过度争执，时间会给出最好的答案，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2105024486391166399",
           "source": "知乎",
           "platform": "知乎",
           "rank": 9,
           "hot": null,
-          "desc": "11月4日，网友“闹闹123”发帖反映：“无锡果然是大城市，厕所都不一样，进去诧异了2分钟，以为自己走错了，反复确认，直到打扫卫生的阿姨跟我说就是女厕所才确认…” 帖子的配图显示，女厕内出现了3个粉白",
-          "kw": [],
-          "stale": true
+          "desc": "近期，历经洗发水产地争议后，11月13日，胖东来创始人于东来社媒发文，称公司已安排成立专项工作团队展开更详细的调查。14日，于东来再次发文，表示胖东来的经营永远不会完美，让大家不要因认知差异而过度争执",
+          "kw": []
         },
         {
-          "title": "全身麻醉醒来像「跳过了」几个小时，睡眠为什么没有这种感觉？",
-          "url": "https://www.zhihu.com/question/2086783568102143886",
+          "title": "遗传角度来看，孙子是和爷爷奶奶血缘更近，还是和外公外婆？",
+          "url": "https://www.zhihu.com/question/307479952",
           "source": "知乎",
           "platform": "知乎",
           "rank": 10,
           "hot": null,
-          "desc": "做过手术的人常说，麻醉是数到三就断片，醒来一点过程都没有；而睡一觉多少会有做梦、翻身、时间流逝的模糊印象。想请麻醉科或神经科学方向的答主讲讲：麻醉药压住的是哪一层活动，和自然睡眠的差别在哪；为什么麻醉",
-          "kw": [],
-          "stale": true
+          "desc": "孙子从爷爷奶奶那里得到的遗传物质，与从外公外婆那里得到的遗传物质，哪个更多一点呢？",
+          "kw": []
         },
         {
           "title": "BLG战胜T1挺进决赛",
@@ -589,76 +581,77 @@
       "name": "科技与产业",
       "items": [
         {
-          "title": "车内没有导航的另类解决方案？美车企 Slate 为“2.5 万美元极简皮卡”推出纸质地图",
-          "url": "https://www.ithome.com/1/027/145.htm",
+          "title": "B站“BLG 夺冠时刻”赠送 7 天大会员活动被挤爆，多名用户反馈仍抢不到",
+          "url": "https://www.ithome.com/1/027/306.htm",
           "source": "IT之家",
-          "time": "2026-11-14T07:04:31.000Z",
-          "desc": "<p data-vmark=\"9523\">IT之家 11 月 14 日消息，据外媒 motor1 报道，美国初创车企 Slate 为旗下<strong>主打极简配置的纯电皮卡</strong>推出了一款“无屏幕 GPS”：无需开机、不用支付",
+          "time": "2026-11-15T05:06:59.000Z",
+          "desc": "<p data-vmark=\"b5aa\">IT之家 11 月 15 日消息，在 2026 英雄联盟全球总决赛（S16）中，哔哩哔哩旗下战队 BLG（Bilibili Gaming）以 3:1 击败了韩国 LCK 赛区的 <span clas",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "小特朗普支持的公司称未来 5~10 年大多数战争将由机器人来打",
-          "url": "https://www.ithome.com/1/027/144.htm",
+          "title": "《极限竞速：地平线 6》游戏 2026 年末-2027 年路线图公布，含两款 DLC 及内容更新",
+          "url": "https://www.ithome.com/1/027/305.htm",
           "source": "IT之家",
-          "time": "2026-11-14T07:02:25.000Z",
-          "desc": "<p data-vmark=\"079c\">IT之家 11 月 14 日消息，由埃里克 · 特朗普（Eric Trump）投资支持机器人公司 Foundation 的联合创始人迈克 · 勒布朗（Mike LeBlanc）表示，<strong>",
+          "time": "2026-11-15T04:53:30.000Z",
+          "desc": "<p data-vmark=\"83d1\">IT之家 11 月 15 日消息，Playground Games 开发团队现已公布《极限竞速：地平线 6》游戏的内容更新路线图，介绍游戏在 2026 年末-2027 年计划新推出的内容。</p><",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "OPPO Reno17 系列参数曝光：2 亿像素主摄，11 月 16 日发布",
-          "url": "https://www.ithome.com/1/027/143.htm",
+          "title": "华为 Mate X8 大折叠手机今日亮相，消息称典藏版本支持睿影 Z10 模块相机",
+          "url": "https://www.ithome.com/1/027/304.htm",
           "source": "IT之家",
-          "time": "2026-11-14T07:00:13.000Z",
-          "desc": "<p data-vmark=\"b2dc\">IT之家 11 月 14 日消息，博主 @数码闲聊站 今日对 OPPO Reno17 系列手机参数进行了爆料汇总，新机将于 11 月 16 日 19:00 正式发布。</p><p data-vmar",
+          "time": "2026-11-15T04:52:14.000Z",
+          "desc": "<p data-vmark=\"e702\">IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，回顾了华为 Mate X 系列折叠屏手机走过的岁月，并宣布 Mate X8 新机“就要来",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "TCL 华星赵军：武汉 t12 产线产能已提升至 9K 大板，首款印刷 OLED 产品良率超 70%",
-          "url": "https://www.ithome.com/1/027/142.htm",
+          "title": "韩国税务师考试榜一考生自首，承认用微型摄像头与 AI 作弊",
+          "url": "https://www.ithome.com/1/027/303.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:58:27.000Z",
-          "desc": "<p data-vmark=\"d9f7\">IT之家 11 月 14 日消息，2026 年 TCL 华星全球显示生态大会（DTC2026）昨日（13 日）举行，推出印刷 OLED 氧化物内补 QHD 500Hz 电竞显示 (27\")。</p>",
-          "section": "tech",
-          "kw": []
-        },
-        {
-          "title": "谷歌 Gemini 个人智能功能接入 Google Wallet 钱包应用：可为用户消费习惯提供个性化分析建议",
-          "url": "https://www.ithome.com/1/027/141.htm",
-          "source": "IT之家",
-          "time": "2026-11-14T06:57:17.000Z",
-          "desc": "<p data-vmark=\"c9a7\">IT之家 11 月 14 日消息，谷歌宣布 Gemini 的 Personal Intelligence（个人智能）功能已正式支持 Google Wallet 钱包，用户在完成授权后，Gemini ",
-          "section": "tech",
-          "kw": []
-        },
-        {
-          "title": "谷歌利用多个专业 AI 智能体打造 Teamwork 系统，成功验证多项复杂数学证明",
-          "url": "https://www.ithome.com/1/027/140.htm",
-          "source": "IT之家",
-          "time": "2026-11-14T06:53:32.000Z",
-          "desc": "<p data-vmark=\"e3eb\">IT之家 11 月 14 日消息，谷歌宣布进一步扩展旗下 Antigravity 多智能体系统，利用多个由 Gemini 模型驱动的专业智能体组成 Teamwork 系统，号称可解决“长期悬而未决的",
+          "time": "2026-11-15T04:35:42.000Z",
+          "desc": "<p data-vmark=\"ed47\">IT之家 11 月 15 日消息，据韩媒 Etnews 今天报道，韩国 2026 年税务师资格考试的榜一考生承认，<strong>他使用了微型摄像头和生成式人工智能作弊</strong>。</p><",
           "section": "tech",
           "kw": [
-            "AI"
+            "AI",
+            "税务"
           ]
         },
         {
-          "title": "堪比蓝屏“灭霸”事件：微软 2026 最严重宕机重创全球金融业，交易员被迫改用传真",
-          "url": "https://www.ithome.com/1/027/138.htm",
+          "title": "华为何刚：鸿蒙生态用户数已达 9980 万，预计再过几天就能突破 1 亿",
+          "url": "https://www.ithome.com/1/027/302.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:48:54.000Z",
-          "desc": "<p data-vmark=\"c137\">IT之家 11 月 14 日消息，据新加坡《商业时报》昨日（11 月 13 日）报道，受微软多项软件服务全球性故障影响，<strong>全球金融业务遭受重创，部分交易员被迫改用电话、WhatsApp",
+          "time": "2026-11-15T04:25:40.000Z",
+          "desc": "<p data-vmark=\"5d8e\">IT之家 11 月 15 日消息，据爱范儿报道，华为终端 BG CEO 何刚在南京大学透露，截至当天，<strong>鸿蒙生态用户数已经达到 9980 万</strong>，距离 1 亿大关仅差 2",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "微博官方 11.11 返场：会员年卡 49.4 元、SVIP 年卡 117 元大促",
-          "url": "https://www.ithome.com/1/027/137.htm",
+          "title": "消息称松下计划下周推出 L 卡口电影摄影机：外形类似索尼 FX3，不支持拍照",
+          "url": "https://www.ithome.com/1/027/300.htm",
           "source": "IT之家",
-          "time": "2026-11-14T06:47:59.000Z",
-          "desc": "<p data-vmark=\"6d1b\">微博会员年卡日常售价 120 元，11.11 大促活动价 60 元，领券立减 10 元 + 可用淘金币抵扣 0.6 元，到手仅需 49.4 元。约合 4.12 元 / 月。</p><dir><a h",
+          "time": "2026-11-15T04:13:50.000Z",
+          "desc": "<p data-vmark=\"4a69\">IT之家 11 月 15 日消息，消息源 L-Rumors 昨日发文称，三位消息人士透露，松下可能在下周推出一款 L 卡口电影摄影机。</p><p data-vmark=\"c21f\" style=\"",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "华为余承东自曝是 Mate X 系列第一位用户，称大折叠已成千万用户主力机",
+          "url": "https://www.ithome.com/1/027/299.htm",
+          "source": "IT之家",
+          "time": "2026-11-15T04:13:21.000Z",
+          "desc": "<p data-vmark=\"cace\">IT之家 11 月 15 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东在其个人社交平台表示，今年是华为 Mate X 系列走过的第八年，<strong>现在大折叠已成为千万",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "第 10 万辆岚图知音纯电 SUV 交付，2027 款本月上市限时权益价 19.79 万元",
+          "url": "https://www.ithome.com/1/027/298.htm",
+          "source": "IT之家",
+          "time": "2026-11-15T03:56:04.000Z",
+          "desc": "<p data-vmark=\"35a8\">IT之家 11 月 15 日消息，岚图汽车官方宣布，<strong>第 10 万辆岚图知音纯电 SUV 已正式交付</strong>。</p><p style=\"text-align: center",
           "section": "tech",
           "kw": []
         }
@@ -747,74 +740,74 @@
       "name": "财政与财经",
       "items": [
         {
-          "title": "中美举行中美经贸磋商机制项下贸易理事会首次会议",
-          "url": "https://wallstreetcn.com/livenews/3200113",
+          "title": "余承东：大折叠已成为千万人的主力机",
+          "url": "https://wallstreetcn.com/livenews/3200163",
           "source": "华尔街见闻",
-          "time": "2026-11-14T06:54:41.000Z",
-          "desc": "<p>11月13日，中美双方通过视频会议方式举行中美经贸磋商机制项下贸易理事会首次会议。双方以中美元首会晤重要共识为引领，围绕落实前期中美经贸磋商成果，就关税、“300亿对300亿”对等降税安排、农产品贸易以及各自关心的其他议题进行了坦诚、",
+          "time": "2026-11-15T03:54:50.000Z",
+          "desc": "<p>11月15日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在其个人社交平台表示，今年是华为Mate X系列走过的第八年，现在大折叠已成为千万用户的主力机型，新一代华为Mate X8将在屏幕、影像和性能体验上有新的突破。<",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "微软：所有产品均正常运行。",
-          "url": "https://wallstreetcn.com/livenews/3200112",
+          "title": "APEC工商领导人峰会将发布“深圳倡议”，系创办30年来首次",
+          "url": "https://wallstreetcn.com/livenews/3200162",
           "source": "华尔街见闻",
-          "time": "2026-11-14T06:41:48.000Z",
-          "desc": "<p>微软：所有产品均正常运行。</p>",
+          "time": "2026-11-15T03:39:40.000Z",
+          "desc": "<p>11月15日，2026年APEC工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜透露，本届APEC工商领导人峰会将汇聚研讨成果和交流共识，形成并发布《2026年APEC工商领导人峰会深圳倡议》，这是峰会创办30年来首次以倡议",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "美财长承认移居军事基地，斥责《华尔街日报》泄露住址信息",
-          "url": "https://wallstreetcn.com/livenews/3200111",
+          "title": "中美工商界代表提议加强亚太供应链合作",
+          "url": "https://wallstreetcn.com/livenews/3200160",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:54:25.000Z",
-          "desc": "<p>据美国消费者新闻与商业频道（CNBC）13日报道，美国财政部长贝森特当天在接受该媒体采访时承认自己已从住所搬至一处军事基地，并称搬家的原因之一是美国《华尔街日报》刊登了一张其住所照片，上面包含地理位置信息。</p> <p>贝森特称，他",
+          "time": "2026-11-15T03:13:32.000Z",
+          "desc": "<p>11月15日，2026年APEC工商界活动专题新闻发布会在深圳举办。中国贸促会国际部部长吴蒙表示，在亚太经合组织工商咨询理事会第四次会议上，中方代表提案包括关于人工智能应用、零碳交通、跨境二维码支付、绿色农业和供应链合作等意见建议，并",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "伊朗表示，在“非常时期”不会恢复核安全保障措施。",
-          "url": "https://wallstreetcn.com/livenews/3200110",
+          "title": "中国贸促会副会长李庆霜：美国参会企业占外方经济体20%",
+          "url": "https://wallstreetcn.com/livenews/3200159",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:51:17.000Z",
-          "desc": "<p>伊朗表示，在“非常时期”不会恢复核安全保障措施。</p>",
+          "time": "2026-11-15T03:12:57.000Z",
+          "desc": "<p>今日，2026年APEC工商界活动专题新闻发布会在深圳举办。中国贸促会副会长李庆霜表示，本届APEC工商领导人峰会有四大特色：主题鲜明、议程前沿、议程丰富、领袖云集。她透露，本次峰会吸引了至少115家世界500强企业代表参会，美方参会",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "北京15日正式供暖",
-          "url": "https://wallstreetcn.com/livenews/3200109",
+          "title": "超百家世界500强企业代表将参加APEC工商领导人峰会",
+          "url": "https://wallstreetcn.com/livenews/3200158",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:40:29.000Z",
-          "desc": "<p>11月15日，北京地区将正式供暖。随着供暖季的临近，国网北京市电力公司全力落实度冬供电保障重点举措。国网北京电力调度控制中心预测，今冬北京电网最大负荷可达2900万千瓦，预计较冬季历史最大负荷增长约8.29%。（北京日报）</p>",
+          "time": "2026-11-15T02:57:36.000Z",
+          "desc": "<p>在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，115家世界500强企业代表将参加APEC工商领导人峰会。美国参会企业数量居外方经济体之首，占比近20%。此外，多位国际组织负责人及美国、俄罗斯、",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "华为数字能源将出售给比亚迪？比亚迪声明：无任何事实依据，属于虚假信息",
-          "url": "https://wallstreetcn.com/livenews/3200108",
+          "title": "12位APEC经济体领导人将出席APEC工商领导人峰会",
+          "url": "https://wallstreetcn.com/livenews/3200157",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:24:26.000Z",
-          "desc": "<p>比亚迪网络举报中心今日发布声明称，针对网络流传“某数字能源出售给比亚迪”相关信息，经核实：该消息无任何事实依据，属于虚假信息，请广大网友切勿轻信、转发。“网络不是法外之地，对于编造、传播虚假信息扰乱网络秩序的行为，我们将保留追究相关主",
+          "time": "2026-11-15T02:57:15.000Z",
+          "desc": "<p>在15日举行的2026年APEC工商界活动专题新闻发布会上，中国贸促会副会长李庆霜介绍，作为APEC领导人会议周的重要组成部分，2026年APEC工商领导人峰会将于11月17日至18日在深圳前海国际会议中心举办，习近平主席和澳大利亚、",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "特朗普下周访问亚洲 被曝会带马斯克 回避提及英伟达、黄仁勋",
-          "url": "https://wallstreetcn.com/livenews/3200107",
+          "title": "沙特主导的多国联军称拦截摧毁两枚射向利雅得的弹道导弹",
+          "url": "https://wallstreetcn.com/livenews/3200156",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:23:11.000Z",
-          "desc": "<p>据美联社报道，美国总统特朗普计划下周访问亚洲时带上马斯克。匿名政府官员透露，作为SpaceX和特斯拉的掌门人，马斯克在经济和国家安全方面拥有重要利益，这使他成为特朗普的宝贵顾问。官员还透露，特朗普并不打算提及黄仁勋相关事件，美国政府认",
+          "time": "2026-11-15T01:50:38.000Z",
+          "desc": "<p>当地时间15日，沙特主导的多国联军发言人在社交媒体上发布消息称，联军防空部队拦截并摧毁了也门胡塞武装向沙特首都利雅得方向发射的两枚弹道导弹。稍早前联军还表示，在东部地区拦截并摧毁了两次无人机袭击。（央视新闻）</p>",
           "section": "finance",
           "kw": []
         },
         {
-          "title": "伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。",
-          "url": "https://wallstreetcn.com/livenews/3200106",
+          "title": "沙特首都利雅得传出剧烈爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3200155",
           "source": "华尔街见闻",
-          "time": "2026-11-14T05:21:58.000Z",
-          "desc": "<p>伊朗方面称，一艘油轮周六凌晨在霍尔木兹海峡以东触雷。</p>",
+          "time": "2026-11-15T01:16:59.000Z",
+          "desc": "<p>当地时间15日凌晨，沙特首都利雅得传出多声剧烈爆炸声，居民收到经由手机程序发布的防空警报。（央视新闻）</p>",
           "section": "finance",
           "kw": []
         },
@@ -899,85 +892,83 @@
       "name": "海外技术热点",
       "items": [
         {
-          "title": "Ggml v1.0.0",
-          "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+          "title": "SpaceX catches the Starship to end Flight 15",
+          "url": "https://www.spacex.com/launches/starship-flight-15",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 174,
-          "time": "2026-11-14T02:28:29.000Z",
+          "hot": 948,
+          "time": "2026-11-14T21:22:24.000Z",
           "kw": []
         },
         {
-          "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+          "title": "Lovable apps expose passport details and more than 200K private messages",
+          "url": "https://www.crissyfield.de/research/lovable-en/",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 368,
-          "time": "2026-11-14T02:52:59.000Z",
-          "kw": [
-            "AI"
-          ]
-        },
-        {
-          "title": "FAA issues national ground stop – lifted 4.5 hours later",
-          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 1489,
-          "time": "2026-11-13T21:05:53.000Z",
+          "hot": 728,
+          "time": "2026-11-14T17:43:10.000Z",
           "kw": []
         },
         {
-          "title": "Terminal borders that don't cost a cell",
-          "url": "https://www.joshka.net/cell-borders/",
+          "title": "Show HN: Gawain – Require type hints on all Python variables",
+          "url": "https://github.com/matheuzgomes/gawain",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 193,
-          "time": "2026-11-13T23:06:40.000Z",
+          "hot": 14,
+          "time": "2026-11-15T04:39:25.000Z",
           "kw": []
         },
         {
-          "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
-          "url": "https://unsloth.ai/docs/models/qwen3.8",
+          "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+          "url": "https://retrocomputing.stackexchange.com/questions/17957",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 97,
-          "time": "2026-11-14T00:06:04.000Z",
+          "hot": 156,
+          "time": "2026-11-14T22:22:49.000Z",
           "kw": []
         },
         {
-          "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
-          "url": "https://grounds.top/",
+          "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 115,
-          "time": "2026-11-13T23:17:39.000Z",
+          "hot": 8,
+          "time": "2026-11-15T04:09:11.000Z",
           "kw": []
         },
         {
-          "title": "What Happened to 3Com?",
-          "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+          "title": "Osint Case Studies",
+          "url": "https://osintsearch.org/blog/osint-case-studies",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 115,
-          "time": "2026-11-13T23:48:59.000Z",
+          "hot": 10,
+          "time": "2026-11-15T03:33:41.000Z",
           "kw": []
         },
         {
-          "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-          "url": "https://orcasairband.com/",
+          "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+          "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 253,
-          "time": "2026-11-13T22:04:24.000Z",
+          "hot": 145,
+          "time": "2026-11-15T02:00:54.000Z",
+          "kw": []
+        },
+        {
+          "title": "The Evolving Story of How Chemistry Became Biology",
+          "url": "https://www.quantamagazine.org/the-evolving-story-of-how-chemistry-became-biology-20261112/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 16,
+          "time": "2026-11-13T11:55:19.000Z",
           "kw": []
         }
       ]
@@ -996,9 +987,8 @@
     },
     {
       "id": "hot:zhihu",
-      "ok": false,
-      "count": 0,
-      "error": "HTTP 429 限流"
+      "ok": true,
+      "count": 10
     },
     {
       "id": "hot:douyin",
