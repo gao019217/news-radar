@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-23T06:28:46.907Z",
-  "date": "2026-11-23",
-  "total": 95,
+  "generatedAt": "2026-11-24T08:59:21.208Z",
+  "date": "2026-11-24",
+  "total": 87,
   "sections": [
     {
       "id": "daily",
       "name": "每日要闻",
       "items": [
         {
-          "title": "超级月亮跨年 “一键三连”：三场满月分别出现在 11 月、12 月和明年 1 月，首轮 24 日正式上线",
+          "title": "广州电动自行车新规 12 月 15 日起施行：部分路段工作日 8 时至 19 时禁行，部分路段全天 24 小时禁行",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -17,7 +17,7 @@
           "kw": []
         },
         {
-          "title": "今年流感季三毒株同时活跃，医生表示：得甲流后还可能再得乙流，注意防护",
+          "title": "上海地铁票价时隔 21 年调整，平均每人次提高 0.9 元，12 月 1 日执行",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -26,7 +26,7 @@
           "kw": []
         },
         {
-          "title": "稳市场三项新政发布：融资保证金比例降至 80%，创业板拟引入做市商制度，沪深交易所与中国结算集体降费",
+          "title": "我国首个牙膏强制性国家标准即将出台：禁止明示或暗示医疗作用",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -35,7 +35,7 @@
           "kw": []
         },
         {
-          "title": "十大券商把脉 A 股：短期波动不改长期逻辑，调整孕育布局机会",
+          "title": "深圳卫健委提醒：清洁神器魔力擦别乱用，每磨损 1 克释放 650 万个微塑料",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -44,7 +44,7 @@
           "kw": []
         },
         {
-          "title": "全国首个冷门绝学学院官网上线：设鼎堂班、本硕博贯通培养，破解绝学人才断档难题",
+          "title": "四部门：支持有条件幼儿园开设托班招收 2 岁至 3 岁幼儿，打造 “一刻钟托育服务圈”，建设更多托位",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -53,19 +53,16 @@
           "kw": []
         },
         {
-          "title": "部分 AI 大模型宣称经过中医类别医师资格考试测试，官方回应：未与任何大模型企业合作，亦未开展测评",
+          "title": "新版国际高血压指南发布：高压 130、低压 80 起被定义为血压升高，要尽早干预",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 6,
           "hot": null,
-          "kw": [
-            "大模型",
-            "AI"
-          ]
+          "kw": []
         },
         {
-          "title": "郎平获国际排联最高荣誉 “排球勋章”：全球排球偶像，成就激励几代人",
+          "title": "中国足协发布《红图计划》：统一理念重塑青训体系，包括四个优先、五大培养支柱",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -74,7 +71,7 @@
           "kw": []
         },
         {
-          "title": "国产 120kV 冷冻透射电子显微镜发布：其信息分辨率达 0.23 纳米，核心部件全自主研制",
+          "title": "韦东奕攻克近 140 年难题获奖，斩获杰出青年中关村奖，50 万元奖金归个人所有",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -83,7 +80,7 @@
           "kw": []
         },
         {
-          "title": "第二艘国产大型邮轮 “爱达・花城号” 正式开启商业首航，将推出近十个东南亚长线航次",
+          "title": "高校向学生发 Token：有大学每人每周送 1 亿 Token 的使用额度",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -92,7 +89,7 @@
           "kw": []
         },
         {
-          "title": "中泰免签红利持续释放：昆明机场往来中泰出入境人员破 100 万人次",
+          "title": "日媒：中国品牌新车份额在全球 39 个市场超越日本车企，其中 8 个市场位于欧洲",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -101,7 +98,7 @@
           "kw": []
         },
         {
-          "title": "美国达美航空因系统故障，在亚特兰大国际机场有逾 360 架次航班出现延误",
+          "title": "老挝 11 月 24 日正式脱离联合国最不发达国家行列，成为少数实现这一跨越的发展中国家之一",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -110,18 +107,16 @@
           "kw": []
         },
         {
-          "title": "90 后数学家称借助 AI 证明了困扰数学界 167 年的黎曼猜想，公开 25 万页代码，菲尔兹奖得主：验证仍需要时间",
+          "title": "英国曼彻斯特一演唱会现场出现 “不明物质”，超 1.2 万人被紧急疏散",
           "url": "",
           "source": "每天60秒",
           "platform": "",
           "rank": 12,
           "hot": null,
-          "kw": [
-            "AI"
-          ]
+          "kw": []
         },
         {
-          "title": "欧日水星探测器进入环水星轨道，历时 8 年累计飞行约 100 亿公里",
+          "title": "英伟达官宣即日起恢复黄仁勋总裁、CEO 及董事会职务；英伟达股价一度涨超 30%，市值增加超 1 万亿美元",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -130,7 +125,7 @@
           "kw": []
         },
         {
-          "title": "韩国各高校自主招生防 AI 作弊措施引争议，包括要求考生穿一次性围裙、扎头发露出耳朵等",
+          "title": "美国多领域接连发生技术故障，专家称 2027 年 AI 网络风险或集中显现",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -141,7 +136,7 @@
           ]
         },
         {
-          "title": "法国连续第 6 个周六举行抗议，参加人数回落，当局出动 7 万名警力维持秩序",
+          "title": "特斯拉推送 FSD v15：安全处理能力提升 25 倍，新增实时路况视图；马斯克称明年底特斯拉有望集成星链，中国市场暂不覆盖",
           "url": "",
           "source": "每天60秒",
           "platform": "",
@@ -156,102 +151,104 @@
       "name": "全网热搜",
       "items": [
         {
-          "title": "南方豆腐掉地上能弹起来",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E6%96%B9%E8%B1%86%E8%85%90%E6%8E%89%E5%9C%B0%E4%B8%8A%E8%83%BD%E5%BC%B9%E8%B5%B7%E6%9D%A5",
+          "title": "深圳感谢市民全妆出街",
+          "url": "https://s.weibo.com/weibo?q=%E6%B7%B1%E5%9C%B3%E6%84%9F%E8%B0%A2%E5%B8%82%E6%B0%91%E5%85%A8%E5%A6%86%E5%87%BA%E8%A1%97",
           "source": "微博",
           "platform": "微博",
           "rank": 1,
-          "hot": 1319171,
+          "hot": 1113554,
           "desc": "",
           "kw": []
         },
         {
-          "title": "韦东奕攻克百年难题获奖",
-          "url": "https://s.weibo.com/weibo?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E6%94%BB%E5%85%8B%E7%99%BE%E5%B9%B4%E9%9A%BE%E9%A2%98%E8%8E%B7%E5%A5%96",
+          "title": "上海地铁回应大爷抵脖子不放小伙倒地",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E5%A4%A7%E7%88%B7%E6%8A%B5%E8%84%96%E5%AD%90%E4%B8%8D%E6%94%BE%E5%B0%8F%E4%BC%99%E5%80%92%E5%9C%B0",
           "source": "微博",
           "platform": "微博",
           "rank": 2,
-          "hot": 1278706,
+          "hot": 790130,
           "desc": "",
           "kw": []
         },
         {
-          "title": "优质网络主播中国行川渝行",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%98%E8%B4%A8%E7%BD%91%E7%BB%9C%E4%B8%BB%E6%92%AD%E4%B8%AD%E5%9B%BD%E8%A1%8C%E5%B7%9D%E6%B8%9D%E8%A1%8C",
+          "title": "中国经济电力十足",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E7%94%B5%E5%8A%9B%E5%8D%81%E8%B6%B3",
           "source": "微博",
           "platform": "微博",
           "rank": 3,
-          "hot": 976956,
+          "hot": 787169,
           "desc": "",
           "kw": []
         },
         {
-          "title": "快递员挣3毛找回包裹赔13.8还遭投诉",
-          "url": "https://s.weibo.com/weibo?q=%E5%BF%AB%E9%80%92%E5%91%98%E6%8C%A33%E6%AF%9B%E6%89%BE%E5%9B%9E%E5%8C%85%E8%A3%B9%E8%B5%9413.8%E8%BF%98%E9%81%AD%E6%8A%95%E8%AF%89",
+          "title": "张萌昨天才知道马天宇给她浪姐加油",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%E6%98%A8%E5%A4%A9%E6%89%8D%E7%9F%A5%E9%81%93%E9%A9%AC%E5%A4%A9%E5%AE%87%E7%BB%99%E5%A5%B9%E6%B5%AA%E5%A7%90%E5%8A%A0%E6%B2%B9",
           "source": "微博",
           "platform": "微博",
           "rank": 4,
-          "hot": 836773,
+          "hot": 780127,
           "desc": "",
           "kw": []
         },
         {
-          "title": "青稚这场直播完天霸都想找人索赔了",
-          "url": "https://s.weibo.com/weibo?q=%E9%9D%92%E7%A8%9A%E8%BF%99%E5%9C%BA%E7%9B%B4%E6%92%AD%E5%AE%8C%E5%A4%A9%E9%9C%B8%E9%83%BD%E6%83%B3%E6%89%BE%E4%BA%BA%E7%B4%A2%E8%B5%94%E4%BA%86",
+          "title": "BLG奖金收入断档第一",
+          "url": "https://s.weibo.com/weibo?q=BLG%E5%A5%96%E9%87%91%E6%94%B6%E5%85%A5%E6%96%AD%E6%A1%A3%E7%AC%AC%E4%B8%80",
           "source": "微博",
           "platform": "微博",
           "rank": 5,
-          "hot": 824771,
+          "hot": 762818,
           "desc": "",
           "kw": []
         },
         {
-          "title": "treetree的炸鸡外卖火到被迫成为门店",
-          "url": "https://s.weibo.com/weibo?q=treetree%E7%9A%84%E7%82%B8%E9%B8%A1%E5%A4%96%E5%8D%96%E7%81%AB%E5%88%B0%E8%A2%AB%E8%BF%AB%E6%88%90%E4%B8%BA%E9%97%A8%E5%BA%97",
+          "title": "成毅姜珮瑶对手戏没有暧昧全是忌惮",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%90%E6%AF%85%E5%A7%9C%E7%8F%AE%E7%91%B6%E5%AF%B9%E6%89%8B%E6%88%8F%E6%B2%A1%E6%9C%89%E6%9A%A7%E6%98%A7%E5%85%A8%E6%98%AF%E5%BF%8C%E6%83%AE",
           "source": "微博",
           "platform": "微博",
           "rank": 6,
-          "hot": 603289,
+          "hot": 756089,
           "desc": "",
           "kw": []
         },
         {
-          "title": "369贴脸开大Bin",
-          "url": "https://s.weibo.com/weibo?q=369%E8%B4%B4%E8%84%B8%E5%BC%80%E5%A4%A7Bin",
+          "title": "霍震霆携全家见证霍启刚获授荣誉博士",
+          "url": "https://s.weibo.com/weibo?q=%E9%9C%8D%E9%9C%87%E9%9C%86%E6%90%BA%E5%85%A8%E5%AE%B6%E8%A7%81%E8%AF%81%E9%9C%8D%E5%90%AF%E5%88%9A%E8%8E%B7%E6%8E%88%E8%8D%A3%E8%AA%89%E5%8D%9A%E5%A3%AB",
           "source": "微博",
           "platform": "微博",
           "rank": 7,
-          "hot": 553574,
+          "hot": 744549,
           "desc": "",
           "kw": []
         },
         {
-          "title": "马天宇正面贴脸文吉儿",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%A4%A9%E5%AE%87%E6%AD%A3%E9%9D%A2%E8%B4%B4%E8%84%B8%E6%96%87%E5%90%89%E5%84%BF",
+          "title": "内娱全女拍烂了都不如一部AI",
+          "url": "https://s.weibo.com/weibo?q=%E5%86%85%E5%A8%B1%E5%85%A8%E5%A5%B3%E6%8B%8D%E7%83%82%E4%BA%86%E9%83%BD%E4%B8%8D%E5%A6%82%E4%B8%80%E9%83%A8AI",
           "source": "微博",
           "platform": "微博",
           "rank": 8,
-          "hot": 443144,
+          "hot": 743510,
           "desc": "",
-          "kw": []
+          "kw": [
+            "AI"
+          ]
         },
         {
-          "title": "幼儿园要招2岁孩子了",
-          "url": "https://s.weibo.com/weibo?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%A6%81%E6%8B%9B2%E5%B2%81%E5%AD%A9%E5%AD%90%E4%BA%86",
+          "title": "男子杀妻抛尸后伪装好女婿10年",
+          "url": "https://s.weibo.com/weibo?q=%E7%94%B7%E5%AD%90%E6%9D%80%E5%A6%BB%E6%8A%9B%E5%B0%B8%E5%90%8E%E4%BC%AA%E8%A3%85%E5%A5%BD%E5%A5%B3%E5%A9%BF10%E5%B9%B4",
           "source": "微博",
           "platform": "微博",
           "rank": 9,
-          "hot": 357371,
+          "hot": 728292,
           "desc": "",
           "kw": []
         },
         {
-          "title": "两京十五日 历史剧情",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%A4%E4%BA%AC%E5%8D%81%E4%BA%94%E6%97%A5%20%E5%8E%86%E5%8F%B2%E5%89%A7%E6%83%85",
+          "title": "罗永浩说和俞敏洪没误解也没遗憾",
+          "url": "https://s.weibo.com/weibo?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E5%92%8C%E4%BF%9E%E6%95%8F%E6%B4%AA%E6%B2%A1%E8%AF%AF%E8%A7%A3%E4%B9%9F%E6%B2%A1%E9%81%97%E6%86%BE",
           "source": "微博",
           "platform": "微博",
           "rank": 10,
-          "hot": 219403,
+          "hot": 723424,
           "desc": "",
           "kw": []
         },
@@ -598,74 +595,76 @@
       "name": "科技与产业",
       "items": [
         {
-          "title": "领克 900L 旗舰大七座 SUV 将于 11 月 27 日开启预售，900V 超级电混",
-          "url": "https://www.ithome.com/1/030/895.htm",
+          "title": "华为自研专业音乐编创软件：音悦家 App 正式发布，适配 Mate XT 2、MatePad Edge 等机型",
+          "url": "https://www.ithome.com/1/031/601.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:17:58.000Z",
-          "desc": "<p data-vmark=\"09f4\">IT之家 11 月 23 日消息，领克汽车今日宣布，领克 900L 全球预售发布会将于 11 月 27 日举行，号称“900V 超级电混旗舰大七座 SUV”。</p><p data-vmark=\"3",
+          "time": "2026-11-24T08:35:15.000Z",
+          "desc": "<p data-vmark=\"ff5f\">IT之家 11 月 24 日消息，华为官方今日宣布，其自研专业音乐编创软件 —— <strong>音悦家 App 正式发布</strong>，适配 Mate XT 2、MatePad Edge 等机",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "奇瑞风云 A9 夜影版车型发售，限时置换价 131899 元",
-          "url": "https://www.ithome.com/1/030/894.htm",
+          "title": "华为首款动态血糖仪“维感 G1”发布，限时优惠价 299 元",
+          "url": "https://www.ithome.com/1/031/586.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:15:55.000Z",
-          "desc": "<p data-vmark=\"42f1\" style=\"text-align: left;\">IT之家 11 月 23 日消息，奇瑞风云 A9 夜影版车型今日上市，官方指导价 134,899 元，限时超级置换价 131,899 元。</p>",
+          "time": "2026-11-24T08:30:29.000Z",
+          "desc": "<p data-vmark=\"4ce5\">IT之家 11 月 24 日现场消息，在目前正在进行的华为 Mate X8 及全场景新品发布会中，华为首款动态血糖仪“华为维感 G1”正式发布，该产品已通过 NMPA 第三类医疗器械注册认证，四家权",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "微星推出其首款电竞桌 MAG TA10：双电机智能升降，2699 元起",
-          "url": "https://www.ithome.com/1/030/893.htm",
+          "title": "华为最薄智能手表 WATCH Air 发布：6.9 毫米超薄机身，2499 元起",
+          "url": "https://www.ithome.com/1/031/578.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:13:24.000Z",
-          "desc": "<p data-vmark=\"fd9c\">IT之家 11 月 23 日消息，微星 (MSI) 本月 21 日正式推出其该品牌首款电竞桌 MAG TA10。这一型号搭载捷昌双电机驱动系统，支持升降，售价 2699 元起。</p><p data",
+          "time": "2026-11-24T08:28:45.000Z",
+          "desc": "<p data-vmark=\"6a76\">IT之家 11 月 24 日现场消息，今天下午华为在 Mate X8 及全场景新品发布会上正式推出了全新智能手表 —— 华为WATCH Air。该产品以 6.9 毫米超薄机身、高亮钛合金一体化设计以",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "亚马逊推出《宝可梦》24 部动画电影蓝光合集：精灵球造型包装，售 399.99 美元",
-          "url": "https://www.ithome.com/1/030/891.htm",
+          "title": "本田神秘新车六连发，全部用上全新混动系统",
+          "url": "https://www.ithome.com/1/031/571.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:07:06.000Z",
-          "desc": "<p data-vmark=\"ac06\">IT之家 11 月 23 日消息，亚马逊与 Viz Media 共同推出《宝可梦》24 部动画电影蓝光合集，并由亚马逊独家销售，售价为 399.99 美元<span class=\"exch-mone",
+          "time": "2026-11-24T08:25:09.000Z",
+          "desc": "<p data-vmark=\"ed8f\">IT之家 11 月 24 日消息，当地时间 23 日，据外媒 Carscoops 报道，本田计划在 2030 年 3 月前推出 <strong>15 款新一代混动车型</strong>，其中 6 款",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "自变量发布具身基础模型 WALL-OSS-1.0，零样本真机成功率达 55.1%",
-          "url": "https://www.ithome.com/1/030/890.htm",
+          "title": "卓威发布 EW 系列无线电竞鼠标，首发型号 U2-DW 售 1279 元",
+          "url": "https://www.ithome.com/1/031/569.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:06:12.000Z",
-          "desc": "<p data-vmark=\"79aa\">IT之家 11 月 23 日消息，自变量今日发布新一代具身基础模型 WALL-OSS-1.0。该模型将预训练本身当作智能的来源，而非后续任务微调的起点。</p><p data-vmark=\"95e6",
+          "time": "2026-11-24T08:22:12.000Z",
+          "desc": "<p data-vmark=\"dba7\">IT之家 11 月 24 日消息，卓威 (ZOWIE) 现已正式发布新一代 EW 系列无线电竞鼠标，提供 EC（非对称人体工学）、FK（对称低背）、ZA（对称高背）、U（微不对称收腰）多种模具选择。",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "韩国私募股权基金 MBK Partners 计划私有化 Wacom",
-          "url": "https://www.ithome.com/1/030/889.htm",
+          "title": "IDC：2027 年中国智能眼镜出货将破 450.6 万台，AI 驱动生态跃迁",
+          "url": "https://www.ithome.com/1/031/553.htm",
           "source": "IT之家",
-          "time": "2026-11-23T06:01:17.000Z",
-          "desc": "<p data-vmark=\"6c33\">IT之家 11 月 23 日消息，根据 Wacom（和冠）官网当地时间 20 日公告，韩国私募股权基金 <strong>MBK Partners 计划收购这家诞生于日本的数字书写解决方案与技术企业<",
+          "time": "2026-11-24T08:14:30.000Z",
+          "desc": "<p data-vmark=\"0000\">IT之家 11 月 24 日消息，<strong>I</strong>DC 最新报告预计，<strong>2027 年中国智能眼镜行业将以生态落地和用户体验升级为核心驱动力</strong>，行业重",
+          "section": "tech",
+          "kw": [
+            "AI"
+          ]
+        },
+        {
+          "title": "炫酷概念车叫好难叫座，现代汽车确认 N Vision 74 量产计划被搁置",
+          "url": "https://www.ithome.com/1/031/542.htm",
+          "source": "IT之家",
+          "time": "2026-11-24T08:11:19.000Z",
+          "desc": "<p data-vmark=\"1b9c\">IT之家 11 月 24 日消息，2022 年，现代汽车推出了 N Vision 74 概念车，曾凭借惊艳的设计震撼业界。该车致敬了 1974 年由乔治亚罗设计的现代“开山鼻祖”车系之一 Pony ",
           "section": "tech",
           "kw": []
         },
         {
-          "title": "电动方程式 2027 季前测试发生严重事故：测试车起火爆燃，车手及时撤离未受伤",
-          "url": "https://www.ithome.com/1/030/882.htm",
+          "title": "华为“发钱”了：鸿蒙一亿感恩有礼活动细则公开，设备使用一天 = 100 积分，最高价值 883 元",
+          "url": "https://www.ithome.com/1/031/541.htm",
           "source": "IT之家",
-          "time": "2026-11-23T05:52:18.000Z",
-          "desc": "<p data-vmark=\"3237\">IT之家 11 月 23 日消息，当地时间 11 月 20 日，电动方程式（Formula E）2027 赛季季前测试在西班牙马德里哈拉马（Jarama）赛道发生严重事故。</p><p data-v",
-          "section": "tech",
-          "kw": []
-        },
-        {
-          "title": "魏建军再测长城 001 号超跑，称“进步显著”",
-          "url": "https://www.ithome.com/1/030/879.htm",
-          "source": "IT之家",
-          "time": "2026-11-23T05:51:42.000Z",
-          "desc": "<p data-vmark=\"660c\">IT之家 11 月 23 日消息，长城汽车董事长魏建军今日发布视频，再次对长城 001 号超级跑车进行测试。他表示，距上一次测试已过去两周，<strong>此次测试车辆进步显著</strong>，希",
+          "time": "2026-11-24T08:09:07.000Z",
+          "desc": "<p data-vmark=\"2b0f\">IT之家 11 月 24 日现场消息，在今天的 HUAWEI Mate X8 及全场景新品发布会上，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东宣布推出“鸿蒙一亿感恩有礼”—— 鸿",
           "section": "tech",
           "kw": []
         }
@@ -754,80 +753,6 @@
       "name": "财政与财经",
       "items": [
         {
-          "title": "网传月风私募产品清盘，知情人士回应：消息不实，产品正常运作",
-          "url": "https://wallstreetcn.com/livenews/3203973",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:27:19.000Z",
-          "desc": "<p>11月23日，市场流传截图引发热议，截图中疑似月风发言“结束了，一场游戏一场梦”，有网友就此向其求证，询问产品是否清盘。</p> <p>据一位接近月风的人士透露，网传清盘消息并不属实，相关私募产品目前仍在正常运作。（新浪财经）</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "中韩半导体ETF华泰柏瑞刷新历史成交次高记录",
-          "url": "https://wallstreetcn.com/livenews/3203972",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:26:01.000Z",
-          "desc": "<p>中韩半导体ETF华泰柏瑞（513310）成交额超260亿刷新历史次高记录（历史最高纪录为2026年11月4日的315亿元），该ETF位居今日股票型ETF成交榜首，当前涨幅为1.04%。</p>",
-          "section": "finance",
-          "kw": [
-            "半导体"
-          ]
-        },
-        {
-          "title": "创业板ETF易方达（159915）、科创50ETF华夏（58800）成交额双双突破100亿元，此外，中证2000ETF华泰柏瑞（563300）成交额12.5亿较上一交易日全天放量50%。",
-          "url": "https://wallstreetcn.com/livenews/3203971",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:21:43.000Z",
-          "desc": "<p>创业板ETF易方达（159915）、科创50ETF华夏（58800）成交额双双突破100亿元，此外，中证2000ETF华泰柏瑞（563300）成交额12.5亿较上一交易日全天放量50%。</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "SK集团会长崔泰源在离婚案中寻求法院建议的和解方案，在财产分割案中提出支付全额9440亿韩元。（韩联社）",
-          "url": "https://wallstreetcn.com/livenews/3203970",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:21:36.000Z",
-          "desc": "<p>SK集团会长崔泰源在离婚案中寻求法院建议的和解方案，在财产分割案中提出支付全额9440亿韩元。（韩联社）</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "美国达美航空超2000个航班因系统故障延误或取消",
-          "url": "https://wallstreetcn.com/livenews/3203969",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:19:01.000Z",
-          "desc": "<p>美国最大的航空公司之一——达美航空公司11月22日因技术系统出现故障，导致当日全美范围内超过2000架次达美航空航班出现延误或被取消。（新华社）</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "美国天然气期货日内跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3203968",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:18:53.000Z",
-          "desc": "<p>美国天然气期货日内跌幅扩大至5%。</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "日媒：中国新车份额在全球39个市场超越日本",
-          "url": "https://wallstreetcn.com/livenews/3203967",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:18:01.000Z",
-          "desc": "<p>《日本经济新闻》11月23日刊文说，在全球原油价格大幅上涨、电动汽车快速普及背景下，今年1月至9月，中国品牌新车在全球39个市场的份额超越日本车企。</p> <p>报道说，美国研究机构全球汽车咨询公司对1月至9月的新车销售数据进行分析",
-          "section": "finance",
-          "kw": []
-        },
-        {
-          "title": "A股福建本地股异动拉升，海峡创新、路桥信息涨超10%，平潭发展、福建水泥、厦门信达等纷纷冲高。",
-          "url": "https://wallstreetcn.com/livenews/3203966",
-          "source": "华尔街见闻",
-          "time": "2026-11-23T06:17:35.000Z",
-          "desc": "<p>A股福建本地股异动拉升，海峡创新、路桥信息涨超10%，平潭发展、福建水泥、厦门信达等纷纷冲高。</p>",
-          "section": "finance",
-          "kw": []
-        },
-        {
           "title": "首批全国38个零售业创新提升试点城市名单公布",
           "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494880.html",
           "source": "人民网·财经",
@@ -908,85 +833,83 @@
       "name": "海外技术热点",
       "items": [
         {
-          "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-          "url": "https://spelunkr.tv",
+          "title": "2035 Came Early",
+          "url": "https://fzakaria.com/2026/11/23/2035-came-early",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 345,
-          "time": "2026-11-23T01:13:51.000Z",
+          "hot": 78,
+          "time": "2026-11-24T06:30:33.000Z",
           "kw": []
         },
         {
-          "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-          "url": "https://github.com/AFK-surf/xnulinux",
+          "title": "Ladybird is now in alpha",
+          "url": "https://ladybird.org/posts/alpha/",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 123,
-          "time": "2026-11-23T03:49:24.000Z",
+          "hot": 1881,
+          "time": "2026-11-23T16:13:12.000Z",
           "kw": []
         },
         {
-          "title": "Masullo on the Riemann Hypothesis",
-          "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+          "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+          "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 163,
-          "time": "2026-11-22T10:59:56.000Z",
+          "hot": 438,
+          "time": "2026-11-23T22:32:29.000Z",
           "kw": []
         },
         {
-          "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-          "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+          "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+          "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 392,
-          "time": "2026-11-22T21:01:16.000Z",
-          "kw": [
-            "AI"
-          ]
-        },
-        {
-          "title": "A Partial Evaluator for C",
-          "url": "https://phoenix.labri.fr/software/tempo/",
-          "source": "Hacker News",
-          "platform": "HN",
-          "rank": 0,
-          "hot": 16,
-          "time": "2026-11-23T04:51:48.000Z",
+          "hot": 57,
+          "time": "2026-11-24T05:15:22.000Z",
           "kw": []
         },
         {
-          "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-          "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+          "title": "Drone Maps of Salvage Yards",
+          "url": "https://salvageyarddrone.wordpress.com/",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 440,
-          "time": "2026-11-22T19:10:34.000Z",
+          "hot": 74,
+          "time": "2026-11-24T04:00:28.000Z",
           "kw": []
         },
         {
-          "title": "Cathedral floor emerges in Sudan, revealing one of the biggest medieval churches",
-          "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+          "title": "Nvidia Reinstates Jensen Huang as CEO",
+          "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 177,
-          "time": "2026-11-18T15:43:29.000Z",
+          "hot": 2526,
+          "time": "2026-11-23T14:00:18.000Z",
           "kw": []
         },
         {
-          "title": "GL.iNet Security Notice 2026-11-20",
-          "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+          "title": "Ride the SQL curve from basics to mastery",
+          "url": "https://sqlride.com/",
           "source": "Hacker News",
           "platform": "HN",
           "rank": 0,
-          "hot": 155,
-          "time": "2026-11-22T23:06:37.000Z",
+          "hot": 25,
+          "time": "2026-11-21T19:56:36.000Z",
+          "kw": []
+        },
+        {
+          "title": "Modernizing iperf/iperf3 and introducing fireperf",
+          "url": "https://blog.daniel-baumann.ch/posts/20261122-1.html",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 90,
+          "time": "2026-11-22T22:37:51.000Z",
           "kw": []
         }
       ]
@@ -1043,8 +966,9 @@
     },
     {
       "id": "feed:华尔街见闻",
-      "ok": true,
-      "count": 8
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
     },
     {
       "id": "hn",
@@ -1052,5 +976,5 @@
       "count": 8
     }
   ],
-  "keywordHits": 9
+  "keywordHits": 7
 }
