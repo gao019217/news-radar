@@ -1,0 +1,965 @@
+{
+  "generatedAt": "2026-11-27T07:23:43.416Z",
+  "date": "2026-11-27",
+  "total": 87,
+  "sections": [
+    {
+      "id": "daily",
+      "name": "每日要闻",
+      "items": [
+        {
+          "title": "6G 要来了！三部委：到 2030 年建成覆盖完善、性能领先的新一代通信网",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 1,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "国际科技创新中心指数 2026 发布：北京首次跃升全球第二，上海、粤港澳大湾区稳居前十",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 2,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "中国首例无线侵入式汉语脑机接口临床试验完成，让渐冻症患者 “开口说话”",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 3,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "数学家王虹获颁 2026 年度索菲・热尔曼奖，是第二位获得此奖的中国人",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 4,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "中疾控发布提示：全国流感活动整体处于中流行水平，南、北方省份流感病毒检测阳性率上升",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 5,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "北京对重点群体给予社保补贴，个人缴费享 25% 补贴",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 6,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "医保上线新功能：参保人可便捷查询个人用药情况、购药记录，范围覆盖全国所有定点医疗机构和定点零售药店",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 7,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "美团、淘宝闪购官宣：全面取消超时扣款处罚；货拉拉承诺将整体抽成比例降至约 9%",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 8,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "宁夏一彩票店中出 774.1 万元大奖 兑奖期已过半，至今无人领奖",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 9,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "雀巢澳版 “Alfamino” 1 + 段奶粉检出 “呕吐毒素”，品牌称涉事产品未进入中国大陆市场",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 10,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "美国批准马斯克旗下公司部署由最多 100 万颗卫星组成的星座，用于搭建太空数据中心",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 11,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "日本与印度将联合勘探月球南极：预计于 2028 年进行约 100 天的探测活动，印方开发着陆器，日方负责探测车",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 12,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "高市获日本第 55 届 “最佳着装奖”，获奖感言称：深感荣幸，收到获奖通知时感到十分惊讶",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 13,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "越南首座核电站或推迟至 2037 年后投运，电力短缺风险攀升",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 14,
+          "hot": null,
+          "kw": []
+        },
+        {
+          "title": "英国防部致信约 10 万战略预备役人员，要求做好应召准备，为冷战结束以来首次",
+          "url": "",
+          "source": "每天60秒",
+          "platform": "",
+          "rank": 15,
+          "hot": null,
+          "kw": []
+        }
+      ]
+    },
+    {
+      "id": "hot",
+      "name": "全网热搜",
+      "items": [
+        {
+          "title": "A股史诗级暴涨原因",
+          "url": "https://s.weibo.com/weibo?q=A%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 1,
+          "hot": 1408308,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "海康威视取消大小周遭员工抵制",
+          "url": "https://s.weibo.com/weibo?q=%E6%B5%B7%E5%BA%B7%E5%A8%81%E8%A7%86%E5%8F%96%E6%B6%88%E5%A4%A7%E5%B0%8F%E5%91%A8%E9%81%AD%E5%91%98%E5%B7%A5%E6%8A%B5%E5%88%B6",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 2,
+          "hot": 964766,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "高交会尽显中国科技创新活力",
+          "url": "https://s.weibo.com/weibo?q=%E9%AB%98%E4%BA%A4%E4%BC%9A%E5%B0%BD%E6%98%BE%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0%E6%B4%BB%E5%8A%9B",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 3,
+          "hot": 889613,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "女友去世后男子失联遗体被发现",
+          "url": "https://s.weibo.com/weibo?q=%E5%A5%B3%E5%8F%8B%E5%8E%BB%E4%B8%96%E5%90%8E%E7%94%B7%E5%AD%90%E5%A4%B1%E8%81%94%E9%81%97%E4%BD%93%E8%A2%AB%E5%8F%91%E7%8E%B0",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 4,
+          "hot": 829563,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "大疆 竞业协议",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A7%E7%96%86%20%E7%AB%9E%E4%B8%9A%E5%8D%8F%E8%AE%AE",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 5,
+          "hot": 710520,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "张萌 我等了八年啊马天宇",
+          "url": "https://s.weibo.com/weibo?q=%E5%BC%A0%E8%90%8C%20%E6%88%91%E7%AD%89%E4%BA%86%E5%85%AB%E5%B9%B4%E5%95%8A%E9%A9%AC%E5%A4%A9%E5%AE%87",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 6,
+          "hot": 695869,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "厉娜哭完下山意外发现兜里有一百块",
+          "url": "https://s.weibo.com/weibo?q=%E5%8E%89%E5%A8%9C%E5%93%AD%E5%AE%8C%E4%B8%8B%E5%B1%B1%E6%84%8F%E5%A4%96%E5%8F%91%E7%8E%B0%E5%85%9C%E9%87%8C%E6%9C%89%E4%B8%80%E7%99%BE%E5%9D%97",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 7,
+          "hot": 550984,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "老鼠钻女老师裤子视频不能一删了之",
+          "url": "https://s.weibo.com/weibo?q=%E8%80%81%E9%BC%A0%E9%92%BB%E5%A5%B3%E8%80%81%E5%B8%88%E8%A3%A4%E5%AD%90%E8%A7%86%E9%A2%91%E4%B8%8D%E8%83%BD%E4%B8%80%E5%88%A0%E4%BA%86%E4%B9%8B",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 8,
+          "hot": 511084,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "董明珠当魏建军面训斥员工",
+          "url": "https://s.weibo.com/weibo?q=%E8%91%A3%E6%98%8E%E7%8F%A0%E5%BD%93%E9%AD%8F%E5%BB%BA%E5%86%9B%E9%9D%A2%E8%AE%AD%E6%96%A5%E5%91%98%E5%B7%A5",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 9,
+          "hot": 432564,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "中央汇金 平准基金",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%A4%AE%E6%B1%87%E9%87%91%20%E5%B9%B3%E5%87%86%E5%9F%BA%E9%87%91",
+          "source": "微博",
+          "platform": "微博",
+          "rank": 10,
+          "hot": 431448,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "如何看待蔡磊进入渐冻症终末期，其妻子称上次与蔡磊见面全程没有说话而是一直在哭？",
+          "url": "https://www.zhihu.com/question/2109172404547228699",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 1,
+          "hot": null,
+          "desc": "蔡磊已进入渐冻症终末期，其妻子称没办法接受他现在这样，更没办法接受人生和家庭就这样了，其上次与蔡磊见面全程没有说话，“一直在哭，根本就控制不住”（编辑：晓晓）蔡磊已进入渐冻症终末期，妻子段睿发声：没办",
+          "kw": []
+        },
+        {
+          "title": "魏建军感慨车企竞争激烈，董明珠提出「家里冲进老鼠把它打掉就好」，这套竞争思路放在现在的汽车行业适合吗？",
+          "url": "https://www.zhihu.com/question/2109305887672357185",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 2,
+          "hot": null,
+          "desc": "11月26日，魏建军拜访格力电器，与董明珠直播中，两人谈及新能源汽车竞争激烈。董明珠认为，汽车绝对不能是快消品，事关生命安全。魏建军提到汽车对于家庭作为大件物品，现在快速贬值也令车主很难接受。关于现在",
+          "kw": []
+        },
+        {
+          "title": "东北人好像比别的地方更痴迷于始祖鸟、可隆、迪桑特这些高价低性价比运动服饰，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2107954937695163825",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 3,
+          "hot": null,
+          "desc": "在长春欧亚卖场，迪桑特年销过亿全国第一，始祖鸟、斐乐均超5000万，可隆增速迅猛。供给端的集中投入，让这些品牌在东北的可见度和可得性远高于许多经济发达地区。‌￼‌￼长春、佳木斯这些地方始祖鸟、可隆消费",
+          "kw": []
+        },
+        {
+          "title": "媒体曝海康威视取消大小周，严格执行八小时工作制，有员工称每月少近三千元，公司的工时调整为何员工不买账？",
+          "url": "https://www.zhihu.com/question/2108244269681189697",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 4,
+          "hot": null,
+          "desc": "IT之家 11 月 27 日消息，据 Vista 看天下今日报道，海康威视近日下发全员通知，将取消原有的 996（大小周）工作模式，试行新的 965 工作新规。然而该事件却引发大量内部争议。 多位海康",
+          "kw": []
+        },
+        {
+          "title": "如何评价DeepSeek网页和App端开始展示消耗额度？",
+          "url": "https://www.zhihu.com/question/2109411707877695723",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 5,
+          "hot": null,
+          "desc": "DeepSeek网页和App端开始展示消耗额度。不久前，DeepSeek刚因算力紧张收紧了免费限制，包括压缩单次输入字数、限制闲置长对话续聊，并频繁提示“使用额度已达上限”。 一直以来，DeepSee",
+          "kw": []
+        },
+        {
+          "title": "沈阳最帅保洁大叔宣布辞职，如何评价他的选择？他接下来可能会去干什么？",
+          "url": "https://www.zhihu.com/question/2109025597510739022",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 6,
+          "hot": null,
+          "desc": "11月25日，火遍全网的沈阳商场高颜值保洁大叔宣布辞职，他表示自己会站好最后一班岗，感谢一直喜欢大叔的朋友们。",
+          "kw": []
+        },
+        {
+          "title": "A 股飙涨，创业板指涨幅扩大至10% ，科创50指数涨近13%，全市场近5400股飘红，发生了什么？",
+          "url": "https://www.zhihu.com/question/2109643924381726663",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 7,
+          "hot": null,
+          "desc": "创业板指涨幅扩大至10%，科创50指数涨近13%，沪指上涨逾3%。全市场近5400股飘红，两市放量超4800亿。 11月27日消息，午后指数持续大幅拉升，创指涨超9%；科创50指数日内涨幅扩大至12%",
+          "kw": []
+        },
+        {
+          "title": "为什么植物大战僵尸现在还受欢迎，而愤怒的小鸟却很少有人玩了？",
+          "url": "https://www.zhihu.com/question/2102466524611199485",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 8,
+          "hot": null,
+          "desc": "",
+          "kw": []
+        },
+        {
+          "title": "知乎与DeepSeek开展内容合作，AI回答可溯源引用知乎内容并跳转原文，这将带来哪些体验变化？",
+          "url": "https://www.zhihu.com/question/2109594972236112069",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 9,
+          "hot": null,
+          "desc": "知乎将通过数据开放平台，为 DeepSeek 提供社区问答、文章、热榜与话题讨论等内容的检索能力，覆盖科技、科学、职场、生活、教育、财经等多元领域。 合作覆盖 DeepSeek 网页端与移动端。当相关",
+          "kw": [
+            "AI"
+          ]
+        },
+        {
+          "title": "能拍出《大明王朝 1566》的导演为什么会在《两京十五日》翻车了？",
+          "url": "https://www.zhihu.com/question/2108875718960617190",
+          "source": "知乎",
+          "platform": "知乎",
+          "rank": 10,
+          "hot": null,
+          "desc": "且不说储君的视角很难让观众代入，太子通关还全靠开挂以及反派降智。大场面没啥紧张刺激感还全是“笑料”，目前最出圈的是戏剧化的神剧场面。 第一集先来了个爆炸版“神庙逃亡”：太子朱瞻基执意登上漕商送的宝船，",
+          "kw": []
+        },
+        {
+          "title": "BLG战胜T1挺进决赛",
+          "url": "https://www.douyin.com/search/BLG%E6%88%98%E8%83%9CT1%E6%8C%BA%E8%BF%9B%E5%86%B3%E8%B5%9B",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 1,
+          "hot": 12012035,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "后知后觉又过了一个秋",
+          "url": "https://www.douyin.com/search/%E5%90%8E%E7%9F%A5%E5%90%8E%E8%A7%89%E5%8F%88%E8%BF%87%E4%BA%86%E4%B8%80%E4%B8%AA%E7%A7%8B",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 2,
+          "hot": 11097545,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "中国新发展为世界提供新机遇",
+          "url": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E6%96%B0%E5%8F%91%E5%B1%95%E4%B8%BA%E4%B8%96%E7%95%8C%E6%8F%90%E4%BE%9B%E6%96%B0%E6%9C%BA%E9%81%87",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 3,
+          "hot": 11096636,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "攻击11全方位展示",
+          "url": "https://www.douyin.com/search/%E6%94%BB%E5%87%BB11%E5%85%A8%E6%96%B9%E4%BD%8D%E5%B1%95%E7%A4%BA",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 4,
+          "hot": 10942740,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "我的家乡申请出战",
+          "url": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%AE%B6%E4%B9%A1%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 5,
+          "hot": 10337071,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "今日寒衣节",
+          "url": "https://www.douyin.com/search/%E4%BB%8A%E6%97%A5%E5%AF%92%E8%A1%A3%E8%8A%82",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 6,
+          "hot": 10304053,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "76人送公牛7连败",
+          "url": "https://www.douyin.com/search/76%E4%BA%BA%E9%80%81%E5%85%AC%E7%89%9B7%E8%BF%9E%E8%B4%A5",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 7,
+          "hot": 9170738,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "湖人豪取五连胜重回西部榜首",
+          "url": "https://www.douyin.com/search/%E6%B9%96%E4%BA%BA%E8%B1%AA%E5%8F%96%E4%BA%94%E8%BF%9E%E8%83%9C%E9%87%8D%E5%9B%9E%E8%A5%BF%E9%83%A8%E6%A6%9C%E9%A6%96",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 8,
+          "hot": 9143681,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "跟着韩女学ins感穿搭",
+          "url": "https://www.douyin.com/search/%E8%B7%9F%E7%9D%80%E9%9F%A9%E5%A5%B3%E5%AD%A6ins%E6%84%9F%E7%A9%BF%E6%90%AD",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 9,
+          "hot": 8959895,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "T1发文告别S16",
+          "url": "https://www.douyin.com/search/T1%E5%8F%91%E6%96%87%E5%91%8A%E5%88%ABS16",
+          "source": "抖音",
+          "platform": "抖音",
+          "rank": 10,
+          "hot": 8583326,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "中方回应外媒涉60万枚英伟达芯片报道",
+          "url": "https://www.toutiao.com/trending/7706070287443329034",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 1,
+          "hot": 67092380,
+          "desc": "",
+          "kw": [
+            "芯片"
+          ],
+          "stale": true
+        },
+        {
+          "title": "太原火灾致14死负责人被控制",
+          "url": "https://www.toutiao.com/trending/7706105376327880242",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 2,
+          "hot": 60707696,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "进博会的三种时间刻度",
+          "url": "https://www.toutiao.com/article/7705953103485125135",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 3,
+          "hot": 54930594,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "你有没有单独花超100元吃一顿饭",
+          "url": "https://www.toutiao.com/trending/7705361064330035762",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 4,
+          "hot": 49703257,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "油价预计将大幅下调",
+          "url": "https://www.toutiao.com/trending/7705083710051222043",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 5,
+          "hot": 44973367,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "哈尔滨烤地瓜原价1688到手8元",
+          "url": "https://www.toutiao.com/trending/7704930901733491251",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 6,
+          "hot": 40693585,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "无锡出现女用站立式小便厕位",
+          "url": "https://www.toutiao.com/trending/7705824125209821734",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 7,
+          "hot": 36821078,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "王楚钦发文反思：重新审视自己",
+          "url": "https://www.toutiao.com/trending/7704994179507814451",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 8,
+          "hot": 33317090,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡摧毁敌导航系统",
+          "url": "https://www.toutiao.com/trending/7706024115173392923",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 9,
+          "hot": 30146549,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        },
+        {
+          "title": "攻击-11实弹发射首发命中",
+          "url": "https://www.toutiao.com/trending/7706060469534031923",
+          "source": "头条",
+          "platform": "头条",
+          "rank": 10,
+          "hot": 27277726,
+          "desc": "",
+          "kw": [],
+          "stale": true
+        }
+      ]
+    },
+    {
+      "id": "tech",
+      "name": "科技与产业",
+      "items": [
+        {
+          "title": "教育部辟谣“九年级教材有多处错误”网络谣言：系盗版书籍，正版尚未出版",
+          "url": "https://www.ithome.com/1/033/448.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:09:38.000Z",
+          "desc": "<p data-vmark=\"0d8a\">IT之家 11 月 27 日消息，近期，部分自媒体在抖音、小红书、微信等平台发布“新版九年级下册《道德与法治》教材封面人物有六根手指、正文存在错字别字、漏字、病句”等信息，引发关注。对此，教育部官方",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "日产 10 月全球销量 21.08 万辆同比下滑 18.5%，中国市场下跌 67.1%",
+          "url": "https://www.ithome.com/1/033/424.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:03:30.000Z",
+          "desc": "<p data-vmark=\"866f\">IT之家 11 月 27 日消息，日产汽车今日公布数据，2026 年 10 月份全球销量为 210,803 辆，同比下降 18.5%；全球产量为 214,338 辆，同比下降 22.4%。10 月，",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "何小鹏：小鹏汽车明年、后年无论是销量还是利润都会超出大家的期望",
+          "url": "https://www.ithome.com/1/033/423.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:03:19.000Z",
+          "desc": "<p data-vmark=\"6265\">IT之家 11 月 27 日消息，在今日的 2026 广州车展上，小鹏集团董事长、CEO 何小鹏与小鹏人形机器人 IRON 共同巡展。</p><p data-vmark=\"85bb\">据新浪科技报道",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "安全公司曝光黑客将窃密木马藏入动态壁纸应用，通过 Meta 广告平台分发以实现定向投毒",
+          "url": "https://www.ithome.com/1/033/422.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:03:17.000Z",
+          "desc": "<p data-vmark=\"8e85\">IT之家 11 月 27 日消息，网络安全公司 Bitdefender 发文，透露有黑客将信息窃取木马 SYS01 打包进 Lively Wallpapers 、 Wallpaper Engine ",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "一个标签页曾吃掉 8.4GB 内存：谷歌称已修复 Chrome 浏览器 Gemini 吃内存问题",
+          "url": "https://www.ithome.com/1/033/416.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:01:50.000Z",
+          "desc": "<p data-vmark=\"fb24\">IT之家 11 月 27 日消息，科技媒体 Android Headline 昨日（11 月 26 日）发布博文，报道称<strong><a href=\"https://www.ithome.com",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "微星三模显示器 MAG 275QED27 上市：QHD 275Hz / FHD 360Hz / HD 500Hz，999 元",
+          "url": "https://www.ithome.com/1/033/415.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T07:01:46.000Z",
+          "desc": "<p data-vmark=\"e04f\">IT之家 11 月 27 日消息，微星 (MSI) 现已在通过电商平台销售 MAG 275QED27 显示器。其基于 27\" Rapid IPS 面板，<strong>支持 QHD 275Hz / ",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "丰田汽车 10 月全球销量 940809 辆同比下降 6.3%，中国市场下降 25.4%",
+          "url": "https://www.ithome.com/1/033/398.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T06:55:19.000Z",
+          "desc": "<p data-vmark=\"b833\">IT之家 11 月 27 日消息，丰田汽车今日发布 2026 年 10 月全球销售、生产及出口数据。</p><p data-vmark=\"dcd2\">包括子公司大发汽车在内，丰田汽车 2026 年 ",
+          "section": "tech",
+          "kw": []
+        },
+        {
+          "title": "东风本田曹东杰：未来两年将投放 6 款以上全新产品，动力形式涵盖燃油、混动、插混和纯电",
+          "url": "https://www.ithome.com/1/033/385.htm",
+          "source": "IT之家",
+          "time": "2026-11-27T06:53:06.000Z",
+          "desc": "<p data-vmark=\"058d\">IT之家 11 月 27 日消息，据界面新闻报道，东风本田汽车有限公司执行副总经理曹东杰在接受采访时表示，未来两年（2027 年和 2028 年），东风本田将陆续投放 6 款以上的全新产品，<str",
+          "section": "tech",
+          "kw": []
+        }
+      ]
+    },
+    {
+      "id": "policy",
+      "name": "时政要闻",
+      "items": [
+        {
+          "title": "学习卡丨“人不负青山，青山定不负人”",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。 习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然，建设人与自然和谐共生的现代化，建设望得见山、看得见水、记得住乡愁的美丽中国。",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "镜观·足迹｜呵护千山万水 擘画永续发展",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "大美中国，江山如画。 党的十八大以来，习近平总书记的考察足迹遍及神州大地。祁连山麓、坝上林海，秦岭深处、黄河之滨，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。一系列重要论述，为新时代生态文明建设提供了根本遵循和行动指南。 世界",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "学习手记 | “环境就是民生”",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "6月5日是世界环境日，也是我国环境保护法确立的环境日。 22年前的这一天，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的“千万工程”启动。 当时，习近平同志担任浙江省委书记刚半年多，工作千头万绪。他何以将农村人居环境整治作为",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "刘国中在安徽调研时强调 全力以赴夺取夏粮丰收 全面打牢秋粮生产基础",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494881.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社合肥6月5日电 中共中央政治局委员、国务院副总理刘国中3日至5日到安徽调研“三夏”农业生产工作。他强调，要深入学习贯彻习近平总书记关于国家粮食安全的重要论述，按照党中央、国务院部署，扛稳政治责任，毫不放松抓好夏收夏种夏管，全力以赴夺取",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "韩正会见中美高级别二轨对话美方代表团",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494879.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电 6月5日，国家副主席韩正在北京会见中美高级别二轨对话美方代表团。 韩正表示，中美关系是当今世界最重要的双边关系之一。当前，中美关系处于关键历史节点。中美相互尊重、和平共处、合作共赢，不仅有利于两国，也有利于世界和平与发",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "国务院印发《关于开展第四次全国农业普查的通知》",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1001-40494878.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电 国务院日前印发《关于开展第四次全国农业普查的通知》（以下简称《通知》）。根据《中华人民共和国统计法》和《全国农业普查条例》规定，国务院决定于2026年开展第四次全国农业普查。 《通知》强调，第四次全国农业普查是在以中国",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "中央军委主席习近平签署命令 发布《军事设施建设条例》",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1024-40494849.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电 中央军委主席习近平日前签署命令，发布《军事设施建设条例》，自2025年8月1日起施行。 条例深入贯彻习近平强军思想，深入贯彻新时代军事战略方针，聚焦服务备战打仗，适应新的领导指挥体制和保障模式，科学规范军事设施建设的基",
+          "section": "policy",
+          "kw": []
+        },
+        {
+          "title": "丁薛祥在山西调研时强调 守好公平公正“生命线” 确保实现“平安高考”目标",
+          "url": "http://politics.people.com.cn/n1/2025/0605/c1024-40494847.html",
+          "source": "人民网·时政",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社太原6月5日电 6月3日至4日，中共中央政治局常委、国务院副总理丁薛祥在山西调研高考组织保障和能源改革发展等工作。 丁薛祥首先前往山西省招生考试管理中心和太原市晋源区实验中学考点，听取高考工作情况汇报，实地察看考务组织各环节工作情况。",
+          "section": "policy",
+          "kw": []
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "name": "财政与财经",
+      "items": [
+        {
+          "title": "首批全国38个零售业创新提升试点城市名单公布",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494880.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电（记者谢希瑶）商务部等5部门办公厅近日印发通知，确定第一批全国零售业创新提升试点城市共38个。通知及名单5日对外发布。 据介绍，这38个试点城市根据此前商务部等部门印发的《零售业创新提升工程实施方案》要求，在各地申报试点",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "中国人民银行将开展1万亿元买断式逆回购操作",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494893.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电（记者任军、吴雨）中国人民银行5日发布公告称，为保持银行体系流动性充裕，6月6日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展1万亿元买断式逆回购操作，期限为3个月（91天）。 东方金诚首席宏观分析师王青说，",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "层高不低于3米！新规范如何让住宅更“宜居”？",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494753.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "人民网北京6月5日电 （记者王连香）今日，住房和城乡建设部召开新闻发布会，介绍《住宅项目规范》（以下简称《规范》）实施有关情况。会上，住房和城乡建设部标准定额司司长姚天玮指出，建“好房子”不等同于建“大房子”“贵房子”，而是要通过好的设计、",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "体育精神赋能 乳制品行业推动品质提升",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494877.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "人民网北京6月5日电 （记者夏晓伦）近年来，中国乳制品行业在政策引导、消费升级与技术革新的多重驱动下，正经历深度变革。从奶源基地建设到产品结构优化，从技术升级到国际竞争力提升，行业在挑战中孕育着新机遇。 与此同时，行业供需结构正加速调整。数",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "商务部回应汽车行业“内卷”：配合相关部门加强综合整治与合规引导",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494874.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社北京6月5日电（记者谢希瑶）商务部新闻发言人何咏前5日表示，针对当前汽车行业存在的“内卷式”竞争现象，商务部将积极配合相关部门，加强综合整治与合规引导，维护公平竞争市场秩序，促进行业健康发展。 在商务部当天举行的例行新闻发布会上，有记",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "我国认证认可检验检测行业发展质量实现整体提升",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494876.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "新华社上海6月5日电 题：我国认证认可检验检测行业发展质量实现整体提升 新华社记者赵文君、程思琪 2024年，实施强制性产品认证（CCC认证）产品联网核查2.4亿次，拦截无证商品信息1315万次；制定6类工业机器人检验检测方法、3项工业机器",
+          "section": "finance",
+          "kw": []
+        },
+        {
+          "title": "滴滴程维：将持续发挥稳就业、促消费作用",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494850.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "6月5日，滴滴在其官网发布2025年一季度业绩报告，业务持续稳健增长。 报告显示，一季度，包括中国出行和国际业务在内的核心平台订单量为42.47亿单，较去年同期增长13.4%。其中，中国出行总订单量为32.58亿单，较去年同期增长10.3%",
+          "section": "finance",
+          "kw": [
+            "就业"
+          ]
+        },
+        {
+          "title": "数说生态美 共赏美丽中国新画卷",
+          "url": "http://finance.people.com.cn/n1/2025/0605/c1004-40494620.html",
+          "source": "人民网·财经",
+          "time": "2025-06-05T00:00:00.000Z",
+          "desc": "文字来源：《2024中国生态环境状况公报》、生态环境部 图片来源：视觉中国 文案/海报：王仁宏",
+          "section": "finance",
+          "kw": []
+        }
+      ]
+    },
+    {
+      "id": "tech-en",
+      "name": "海外技术热点",
+      "items": [
+        {
+          "title": "The need for a formally verifiable mainstream programming language",
+          "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 83,
+          "time": "2026-11-27T05:22:06.000Z",
+          "kw": []
+        },
+        {
+          "title": "The group chat where your AI talks behind your back",
+          "url": "https://construct22.com/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 27,
+          "time": "2026-11-27T06:44:34.000Z",
+          "kw": [
+            "AI"
+          ]
+        },
+        {
+          "title": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 570,
+          "time": "2026-11-26T21:47:45.000Z",
+          "kw": [
+            "AI"
+          ]
+        },
+        {
+          "title": "Hard Drive pricing has gotten bad",
+          "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 279,
+          "time": "2026-11-27T01:13:49.000Z",
+          "kw": []
+        },
+        {
+          "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 356,
+          "time": "2026-11-26T17:36:47.000Z",
+          "kw": []
+        },
+        {
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 338,
+          "time": "2026-11-26T21:08:05.000Z",
+          "kw": []
+        },
+        {
+          "title": "AMD-specific fork of llama.cpp",
+          "url": "https://devnull.land/amd-specific-llama-cpp",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 332,
+          "time": "2026-11-26T17:11:29.000Z",
+          "kw": []
+        },
+        {
+          "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+          "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+          "source": "Hacker News",
+          "platform": "HN",
+          "rank": 0,
+          "hot": 249,
+          "time": "2026-11-26T17:47:45.000Z",
+          "kw": []
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "daily",
+      "ok": true,
+      "count": 15
+    },
+    {
+      "id": "hot:weibo",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "id": "hot:zhihu",
+      "ok": true,
+      "count": 10
+    },
+    {
+      "id": "hot:douyin",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429 限流"
+    },
+    {
+      "id": "hot:toutiao",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 429 限流"
+    },
+    {
+      "id": "feed:36氪",
+      "ok": true,
+      "count": 0
+    },
+    {
+      "id": "feed:IT之家",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "id": "feed:人民网·时政",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "id": "feed:人民网·财经",
+      "ok": true,
+      "count": 8
+    },
+    {
+      "id": "feed:华尔街见闻",
+      "ok": false,
+      "count": 0,
+      "error": "HTTP 503"
+    },
+    {
+      "id": "hn",
+      "ok": true,
+      "count": 8
+    }
+  ],
+  "keywordHits": 5
+}
